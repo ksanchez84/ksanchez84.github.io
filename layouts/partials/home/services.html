@@ -2,16 +2,22 @@
   <h3>Talks & Videos</h3>
 
   <div class="row">
-    {{/* Take up to the first 3 talks */}}
     {{ $talks := first 3 (where .Site.RegularPages "Section" "talks") }}
 
     {{ range $talks }}
       <div class="col-sm-4">
         <a href="{{ .RelPermalink }}">
-          {{- with .Params.youtube_id -}}
-            <img src="https://img.youtube.com/vi/{{ . }}/hqdefault.jpg"
+
+          {{ if .Params.youtube_id }}
+            <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
                  style="width:100%; margin-bottom:10px;">
-          {{- end -}}
+
+          {{ else if .Params.thumbnail }}
+            <img src="{{ .Params.thumbnail }}"
+                 style="width:100%; margin-bottom:10px;">
+
+          {{ end }}
+
         </a>
 
         <p style="font-weight:bold; margin-bottom:5px;">
@@ -22,8 +28,6 @@
   </div>
 
   <p style="margin-top:15px;">
-    Charlas y micro-presentaciones sobre inteligencia artificial,
-    ciencia y sociedad.
-    <a href="/talks/">Ver todas &rarr;</a>
+    <a href="/talks/">View all... &rarr;</a>
   </p>
 </div>

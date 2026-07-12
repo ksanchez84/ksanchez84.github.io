@@ -2,87 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karen Sanchez</title>
-    <link>https://ksanchez84.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Karen Sanchez</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ksanchez84.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>https://ksanchez84.github.io/home/downloads/download1/</link>
+      <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/downloads/download1/</guid>
+      <guid>http://localhost:1313/home/downloads/download1/</guid>
       <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>https://ksanchez84.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
     <item>
       <title>The Heart of Innovation: Women, AI, and the Future of Healthcare</title>
-      <link>https://ksanchez84.github.io/talks/talk-1/</link>
+      <link>http://localhost:1313/talks/talk-1/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/talks/talk-1/</guid>
-      <description>&lt;p&gt;Charla donde reflexiono sobre el uso de la inteligencia artificial desde una perspectiva científica, ética y social.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/6YD9lad4cGw?si=I4NfcRF2mmGhyZm3&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/talks/talk-1/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/6YD9lad4cGw?si=I4NfcRF2mmGhyZm3&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
-      <title>Inteligencia artificial e imágenes médicas: Desafíos y perspectivas</title>
-      <link>https://ksanchez84.github.io/talks/talk-2/</link>
+      <title>Ph.D. Thesis Video, UIS</title>
+      <link>http://localhost:1313/talks/talk-3/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/talk-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;target=&#34;_blank&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/video_thesis.png&#34;&#xA;alt=&#34;Thesis video&#34;&#xA;style=&#34;width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;&#34;&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;   target=&#34;_blank&#34;&gt;&#xA;▶ Watch the full ceremony on YouTube&#xA;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI and medical imaging: challenges and perspectives (in Spanish)</title>
+      <link>http://localhost:1313/talks/talk-2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/talks/talk-2/</guid>
-      <description>&lt;p&gt;Charla invitada en un espacio académico donde abordo los retos y oportunidades de la inteligencia artificial en contextos reales.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/QkI1yjof23s?si=LGVPOff1jJG6z2Em&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/talks/talk-2/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/QkI1yjof23s?si=LGVPOff1jJG6z2Em&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>TBD</title>
-      <link>https://ksanchez84.github.io/post/vivamus-lacus-mauris/</link>
+      <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/post/vivamus-lacus-mauris/</guid>
+      <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
       <description>&lt;p&gt;TBD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Application development</title>
-      <link>https://ksanchez84.github.io/home/services/service3/</link>
+      <link>http://localhost:1313/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/services/service3/</guid>
+      <guid>http://localhost:1313/home/services/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom website design</title>
-      <link>https://ksanchez84.github.io/home/services/service1/</link>
+      <link>http://localhost:1313/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/services/service1/</guid>
+      <guid>http://localhost:1313/home/services/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download HUGO template</title>
-      <link>https://ksanchez84.github.io/home/downloads/download2/</link>
+      <link>http://localhost:1313/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/downloads/download2/</guid>
+      <guid>http://localhost:1313/home/downloads/download2/</guid>
       <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>News</title>
-      <link>https://ksanchez84.github.io/home/highlights/</link>
+      <link>http://localhost:1313/home/highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/highlights/</guid>
+      <guid>http://localhost:1313/home/highlights/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;[Jun 2026] Appointed General Chair of the  &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2026/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2026&lt;/a&gt;, held in Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[May 2026] Our paper in Multimodal Safety was accepted to ACL 2026, San Diego, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Mar 2026] Our paper CURE was accepted for an Oral presentation at CVPR 2026, Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Feb 2026] Co-organized the  &lt;a href=&#34;https://www.kaust.edu.sa/events/rsais26/&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2026&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>https://ksanchez84.github.io/home/services/service4/</link>
+      <link>http://localhost:1313/home/services/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/services/service4/</guid>
+      <guid>http://localhost:1313/home/services/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wordpress integration</title>
-      <link>https://ksanchez84.github.io/home/services/service2/</link>
+      <link>http://localhost:1313/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ksanchez84.github.io/home/services/service2/</guid>
+      <guid>http://localhost:1313/home/services/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
   </channel>

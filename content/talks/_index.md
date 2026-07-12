@@ -1,10 +1,9 @@
 ---
-title: "Talks & Videos"
+title: "Talks & Media"
 ---
+# HOLA ESTO ES UNA PRUEBA
 
-Aquí comparto algunas de mis charlas y apariciones públicas, donde exploro temas relacionados con inteligencia artificial, ciencia y sociedad.
-
-Este espacio reúne material académico y divulgativo, dirigido a públicos diversos.
+This space brings together academic and educational material, aimed at diverse audiences.
 
 <section>
 
@@ -17,10 +16,19 @@ style="max-width:600px; width:100%;" />
 
 ---
 
-### Inteligencia artificial e imágenes médicas: desafíos y perspectivas
+### Artificial intelligence and medical imaging: challenges and perspectives (in Spanish)
 
 <a href="/talks/talk-2/">
 <img src="https://img.youtube.com/vi/QkI1yjof23s/hqdefault.jpg"
+style="max-width:600px; width:100%;" />
+</a>
+
+---
+
+### Graduacion
+
+<a href="/talks/talk-3/">
+<img src="/static/images/video_thesis.png"
 style="max-width:600px; width:100%;" />
 </a>
 
