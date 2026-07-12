@@ -1,0 +1,191 @@
+[
+    {
+        "id": 0,
+        "name": "CURE: Curriculum-guided Multi-task Training for Reliable Anatomy Grounded Report Generation",
+        "journal": "CVPR, 2026",
+        "image": "images/cure.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://arxiv.org/pdf/2601.15408"
+            },
+            {
+                "name": "Code",
+                "url": "https://github.com/PabloMessina/CURE"
+            },
+            {
+                "name": "Website",
+                "url": "https://pablomessina.github.io/cure-project-page/"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Multimodal Safety Evaluation in Generative Agent Social Simulations",
+        "journal": "ACL, 2026",
+        "image": "images/agents.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://arxiv.org/abs/2510.07709"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients",
+        "journal": "IEEE ICIP, 2024",
+        "image": "images/dataset.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10647641"
+            },
+            {
+                "name": "Code",
+                "url": "https://github.com/simatec-uis/CO2Wounds-V2"
+            },
+            {
+                "name": "Dataset",
+                "url": "https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Learning to Describe Scenes via Privacy-aware Designed Optical Lens",
+        "journal": "IEEE Trans. on Computational Imaging, 2024",
+        "image": "images/privacy.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613002"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Automated chronic wounds medical assessment and tracking framework based on deep learning",
+        "journal": "Computers in Biology and Medicine, 2023",
+        "image": "images/simatec.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0010482523008004"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Mask-Guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma",
+        "journal": "IEEE ISBI, 2023",
+        "image": "images/mri.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore-ieee-org/document/10230758"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "CX-DaGAN: Domain adaptation for pneumonia diagnosis on a small chest X-ray dataset",
+        "journal": "IEEE Transactions on Medical Imaging, 2022",
+        "image": "images/cxdagan.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore-ieee-org/document/9793621"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "BILSK: A Bilinear Convolutional Neural Network Approach for Skin Lesion Classification",
+        "journal": "CMPB Update, 2021",
+        "image": "images/bilsk.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2666990021000355"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Accurate DL-based Gastrointestinal Disease Classification via Transfer Learning Strategy",
+        "journal": "STSIVA, 2021",
+        "image": "images/kvasir.gif",
+        "url": "#",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591995"
+            },
+            {
+                "name": "Code",
+                "url": "#"
+            },
+            {
+                "name": "BibTeX",
+                "url": "#"
+            }
+        ]
+    }
+]

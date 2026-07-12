@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Videos on Karen Sanchez</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks &amp; Videos on Karen Sanchez</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Heart of Innovation: Women, AI, and the Future of Healthcare</title>
+      <link>http://localhost:1313/talks/talk-1/</link>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/talk-1/</guid>
+      <description>&lt;p&gt;Charla donde reflexiono sobre el uso de la inteligencia artificial desde una perspectiva científica, ética y social.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/6YD9lad4cGw?si=I4NfcRF2mmGhyZm3&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Inteligencia artificial e imágenes médicas: Desafíos y perspectivas</title>
+      <link>http://localhost:1313/talks/talk-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/talk-2/</guid>
+      <description>&lt;p&gt;Charla invitada en un espacio académico donde abordo los retos y oportunidades de la inteligencia artificial en contextos reales.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/QkI1yjof23s?si=LGVPOff1jJG6z2Em&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
