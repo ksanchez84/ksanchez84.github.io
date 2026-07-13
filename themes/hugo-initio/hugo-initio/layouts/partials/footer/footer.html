@@ -1,4 +1,4 @@
-<footer id="footer">
+<footer id="footer" style="background:blue;">
 	<div class="container">
 		<div class="row">
 			{{ if .Site.Params.showFooterContact }}
@@ -16,7 +16,7 @@
 
 			{{ if .Site.Params.showFooterFollowMe }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_followme_title" }}</h3>
+				<h3 class="widget-title">Location</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
             {{ range .Site.Params.social }}
@@ -34,10 +34,8 @@
 				<h3 class="widget-title">{{ i18n "footer_text_title" }}</h3>
 				<div class="widget-body">
 					<p>
-						{{ i18n "footer_text1" . | markdownify }}
-					</p>
-					<p>
-						{{ i18n "footer_text2" . | markdownify }}
+    				King Abdullah University of Science and Technology (KAUST)<br>
+    				Thuwal, Saudi Arabia
 					</p>
 				</div>
 			</div>
@@ -45,14 +43,14 @@
 
 			{{ if .Site.Params.showFooterFormWidget }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_form_title" }}</h3>
-				<div class="widget-body">
-					<p>{{ if .Site.Params.phone }}{{ .Site.Params.phone }}<br>{{ end }}
-					{{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
-					<br>
-					{{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
-					</p>
-				</div>
+				<h3 class="widget-title">Research Interests</h3>
+				<ul class="list-unstyled">
+    				<li>AI for Science</li>
+    				<li>Computer Vision</li>
+    				<li>Medical AI</li>
+    				<li>Video Understanding</li>
+    				<li>Privacy-Preserving AI</li>
+				</ul>
 			</div>
 			{{ end }}
 
@@ -87,8 +85,6 @@
 		</div> <!-- /row of widgets -->
 	</div>
 </footer>
-
-
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
