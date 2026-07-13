@@ -28,7 +28,7 @@ style="max-width:600px; width:100%;" />
 ### Graduacion
 
 <a href="/talks/talk-3/">
-<img src="/static/images/video_thesis.png"
+<img src="/static/images/video_thesisv2.png"
 style="max-width:600px; width:100%;" />
 </a>
 
