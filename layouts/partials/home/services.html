@@ -30,29 +30,44 @@
     </p>
   </div>
 
-  <h3>Featured Talks & Videos</h3>
+  <h3>Featured Talks, Videos & Media</h3>
 
-  <div class="row">
-    {{ $talks := first 3 (where .Site.RegularPages "Section" "talks") }}
+  <div class="row media-grid">
+    {{ $talks := first 4 (where .Site.RegularPages "Section" "talks") }}
 
     {{ range $talks }}
-      <div class="col-sm-4">
-        <a href="{{ .RelPermalink }}">
+      {{ $destination := .RelPermalink }}
+      {{ with .Params.external_url }}
+        {{ $destination = . }}
+      {{ end }}
+
+      <div class="col-sm-6 col-md-3 media-card">
+        <a href="{{ $destination }}"
+           {{ with .Params.external_url }}target="_blank" rel="noopener noreferrer"{{ end }}>
 
           {{ if .Params.youtube_id }}
             <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
-                 style="width:100%; margin-bottom:10px;">
+                 class="media-card-image"
+                 alt="Thumbnail for {{ .Title }}">
 
           {{ else if .Params.thumbnail }}
             <img src="{{ .Params.thumbnail }}"
-                 style="width:100%; margin-bottom:10px;">
+                 class="media-card-image"
+                 alt="Thumbnail for {{ .Title }}">
 
           {{ end }}
 
         </a>
 
-        <p style="font-weight:bold; margin-bottom:5px;">
-          {{ .Title }}
+        {{ with .Params.media_label }}
+          <p class="media-card-label">{{ . }}</p>
+        {{ end }}
+
+        <p class="media-card-title">
+          <a href="{{ $destination }}"
+             {{ with .Params.external_url }}target="_blank" rel="noopener noreferrer"{{ end }}>
+            {{ .Title }}
+          </a>
         </p>
       </div>
     {{ end }}

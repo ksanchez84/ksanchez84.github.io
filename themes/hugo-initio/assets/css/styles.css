@@ -1301,3 +1301,36 @@ header .social-buttons i {
     margin-bottom:0;
     font-weight:600;
 }
+
+.media-grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.media-card{
+    margin-bottom:24px;
+}
+
+.media-card-image{
+    display:block;
+    width:100%;
+    aspect-ratio:16 / 9;
+    margin-bottom:10px;
+    border-radius:4px;
+    object-fit:cover;
+}
+
+.media-card-label{
+    margin-bottom:5px;
+    color:#777;
+    font-size:12px;
+    font-weight:600;
+    letter-spacing:0.02em;
+    text-transform:uppercase;
+}
+
+.media-card-title{
+    margin-bottom:5px;
+    font-weight:700;
+    line-height:1.4;
+}
