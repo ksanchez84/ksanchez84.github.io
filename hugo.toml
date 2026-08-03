@@ -33,10 +33,6 @@ theme = "hugo-initio"
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "projects"
-    url = "/post/"
-    weight = 5
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

@@ -1256,3 +1256,48 @@ header .social-buttons i {
     padding-left:22px;
     line-height:1.8;
 }
+
+.podcast-feature{
+    margin-bottom:32px;
+    padding-bottom:32px;
+    border-bottom:1px solid #e7e7e7;
+}
+
+.podcast-intro{
+    margin-bottom:18px;
+}
+
+.podcast-intro h3{
+    margin-top:0;
+    margin-bottom:10px;
+}
+
+.podcast-intro .podcast-language{
+    margin-top:-3px;
+    margin-bottom:12px;
+    color:#6b5fb5;
+    font-size:14px;
+    font-weight:600;
+    letter-spacing:0.02em;
+}
+
+.podcast-intro p{
+    width:100%;
+    max-width:none;
+    margin-bottom:0;
+    color:#666;
+    font-size:16px;
+    line-height:1.6;
+}
+
+.spotify-embed{
+    display:block;
+    border:0;
+    border-radius:12px;
+}
+
+.podcast-link{
+    margin-top:14px;
+    margin-bottom:0;
+    font-weight:600;
+}
