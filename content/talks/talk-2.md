@@ -1,7 +1,8 @@
 ---
-title: "AI and medical imaging: challenges and perspectives (in Spanish)"
+title: "Women in Data Science Colombia 2022"
 date: 2022-01-01
 youtube_id: "QkI1yjof23s"
+media_label: "Talk Video"
 ---
 
 <iframe width="560" height="315"

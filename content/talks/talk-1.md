@@ -1,7 +1,8 @@
 ---
-title: "The Heart of Innovation: Women, AI, and the Future of Healthcare"
+title: "Women in AI by Voxel51"
 date: 2025-11-13
 youtube_id: "6YD9lad4cGw"
+media_label: "Invited Speaker · Talk Video"
 ---
 
 <iframe width="560" height="315"

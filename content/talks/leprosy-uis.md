@@ -3,7 +3,7 @@ title: "Lepra: una historia que deja ‘llaga’ en Santander"
 date: 2023-12-13
 thumbnail: "/images/newspaper.jpg"
 external_url: "https://comunicaciones.uis.edu.co/https-comunicaciones-uis-edu-co-lepra-una-historia-que-deja-llaga-en-santander/"
-media_label: "Digital newspaper · In Spanish"
+media_label: "Digital newspaper New"
 ---
 
 This feature from Comunicaciones UIS explores the history of Hansen's disease

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Karen Sanchez</title>
-    <link>http://localhost:1313/home/</link>
+    <link>https://ksanchez84.github.io/home/</link>
     <description>Recent content in Homes on Karen Sanchez</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ksanchez84.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>http://localhost:1313/home/highlights/</link>
+      <link>https://ksanchez84.github.io/home/highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/highlights/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;[Jun 2026] Appointed General Chair of the  &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2026/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2026&lt;/a&gt;, held in Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[May 2026] Our paper in Multimodal Safety was accepted to ACL 2026, San Diego, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Mar 2026] Our paper CURE was accepted for an Oral presentation at CVPR 2026, Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Feb 2026] Co-organized the  &lt;a href=&#34;https://www.kaust.edu.sa/events/rsais26/&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2026&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://ksanchez84.github.io/home/highlights/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[Aug 2026] Launched &lt;a href=&#34;https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT&#34;&gt;&lt;em&gt;Relatos y Ciencia&lt;/em&gt;&lt;/a&gt;, my Spanish-language podcast exploring the stories behind science and discovery.&lt;/li&gt;&#xA;&lt;li&gt;[Jun 2026] Appointed General Chair of the  &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2026/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2026&lt;/a&gt;, held in Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[May 2026] Our paper in Multimodal Safety was accepted to ACL 2026, San Diego, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Mar 2026] Our paper CURE was accepted for an Oral presentation at CVPR 2026, Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Feb 2026] Co-organized the &lt;a href=&#34;https://www.kaust.edu.sa/events/rsais26/&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2026&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;li&gt;[Jun 2025] Co-organized the &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2025/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2025&lt;/a&gt;, held in Nashville, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Apr 2025] Invited as a keynote speaker at the 2025 Innovation Week hosted by &lt;a href=&#34;https://fundacionsantafedebogota.com/&#34;&gt;Fundación Santa Fe de Bogotá&lt;/a&gt;, Colombia.&lt;/li&gt;&#xA;&lt;li&gt;[Apr 2025] Co-organized the &lt;a href=&#34;https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2025&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

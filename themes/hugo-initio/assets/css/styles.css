@@ -923,7 +923,7 @@ header .social-buttons i {
     display:flex;
     justify-content:flex-start;
     align-items:center;
-    gap:18px;
+    gap:56px;
 }
 
 .hero .social-buttons li{
@@ -931,7 +931,7 @@ header .social-buttons i {
 }
 
 .hero .social-buttons i{
-    font-size:24px;
+    font-size:35px;
 }
 
 @media (max-width:900px){
@@ -1314,10 +1314,11 @@ header .social-buttons i {
 .media-card-image{
     display:block;
     width:100%;
-    aspect-ratio:16 / 9;
+    aspect-ratio:7 / 5;
     margin-bottom:10px;
     border-radius:4px;
-    object-fit:cover;
+    object-fit:contain;
+    background:#f5f5f5;
 }
 
 .media-card-label{
@@ -1333,4 +1334,107 @@ header .social-buttons i {
     margin-bottom:5px;
     font-weight:700;
     line-height:1.4;
+}
+
+.talks-page{
+    padding-bottom:40px;
+}
+
+.talks-page-header{
+    max-width:760px;
+    margin:0 auto 28px;
+    text-align:center;
+}
+
+.talks-page-header h1{
+    margin-bottom:12px;
+}
+
+.talks-page-intro{
+    color:#666;
+}
+
+.talks-gallery{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.talks-gallery-item{
+    display:flex;
+    margin-bottom:28px;
+}
+
+.talks-gallery-card{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    overflow:hidden;
+    color:inherit;
+    background:#fff;
+    border:1px solid #e7e7e7;
+    border-radius:8px;
+    box-shadow:0 3px 12px rgba(0,0,0,.06);
+    transition:transform .2s ease, box-shadow .2s ease;
+}
+
+.talks-gallery-card:hover,
+.talks-gallery-card:focus{
+    color:inherit;
+    text-decoration:none;
+    transform:translateY(-3px);
+    box-shadow:0 8px 20px rgba(0,0,0,.12);
+}
+
+.talks-gallery-media{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:155px;
+    background:#f5f5f5;
+}
+
+.talks-gallery-media img{
+    display:block;
+    width:100%;
+    height:100%;
+    object-fit:contain;
+}
+
+.talks-gallery-content{
+    display:flex;
+    flex:1;
+    flex-direction:column;
+    padding:17px 18px 16px;
+}
+
+.talks-gallery-label{
+    margin:0 0 7px;
+    color:#777;
+    font-size:11px;
+    font-weight:600;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+}
+
+.talks-gallery-content h2{
+    margin:0 0 14px;
+    font-size:18px;
+    font-weight:700;
+    line-height:1.35;
+}
+
+.talks-gallery-link{
+    margin-top:auto;
+    color:#2d79ba;
+    font-size:13px;
+    font-weight:600;
+}
+
+@media (max-width:767px){
+    .talks-gallery-item{
+        max-width:390px;
+        margin-right:auto;
+        margin-left:auto;
+    }
 }

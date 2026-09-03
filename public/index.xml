@@ -2,94 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karen Sanchez</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ksanchez84.github.io/</link>
     <description>Recent content on Karen Sanchez</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ksanchez84.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>http://localhost:1313/home/downloads/download1/</link>
+      <link>https://ksanchez84.github.io/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download1/</guid>
+      <guid>https://ksanchez84.github.io/home/downloads/download1/</guid>
       <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://ksanchez84.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://ksanchez84.github.io/about/</guid>
       <description></description>
     </item>
     <item>
-      <title>The Heart of Innovation: Women, AI, and the Future of Healthcare</title>
-      <link>http://localhost:1313/talks/talk-1/</link>
+      <title>Semana de la Innovación y la Sostenibilidad (FSFB)</title>
+      <link>https://ksanchez84.github.io/talks/fsfb-news/</link>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ksanchez84.github.io/talks/fsfb-news/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ksanchez84.github.io/images/FSFB.jpg&#34;&#xA;alt=&#34;Fundación Santa Fé de Bogotá&#34;&#xA;style=&#34;width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La enfermedad del exilio: Una historia de la lepra en Colombia</title>
+      <link>https://ksanchez84.github.io/talks/leprosy-documentary/</link>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ksanchez84.github.io/talks/leprosy-documentary/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/EqFhGJEB9V4&#34;&#xA;title=&#34;La enfermedad del exilio: Una historia de la lepra en Colombia&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Women in AI by Voxel51</title>
+      <link>https://ksanchez84.github.io/talks/talk-1/</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/talk-1/</guid>
+      <guid>https://ksanchez84.github.io/talks/talk-1/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/6YD9lad4cGw?si=I4NfcRF2mmGhyZm3&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
-      <title>Ph.D. Thesis Video, UIS</title>
-      <link>http://localhost:1313/talks/talk-3/</link>
+      <title>Ph.D. Journey: Research and Publications at UIS</title>
+      <link>https://ksanchez84.github.io/talks/talk-3/</link>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/talk-3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;target=&#34;_blank&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/video_thesis.png&#34;&#xA;alt=&#34;Thesis video&#34;&#xA;style=&#34;width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;&#34;&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;   target=&#34;_blank&#34;&gt;&#xA;▶ Watch the full ceremony on YouTube&#xA;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://ksanchez84.github.io/talks/talk-3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;target=&#34;_blank&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ksanchez84.github.io/images/video_thesis.png&#34;&#xA;alt=&#34;Thesis video&#34;&#xA;style=&#34;width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;&#34;&gt;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=gK7gyFbVsdc&#34;&#xA;   target=&#34;_blank&#34;&gt;&#xA;▶ Watch the full ceremony on YouTube&#xA;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI and medical imaging: challenges and perspectives (in Spanish)</title>
-      <link>http://localhost:1313/talks/talk-2/</link>
+      <title>Lepra: una historia que deja ‘llaga’ en Santander</title>
+      <link>https://ksanchez84.github.io/talks/leprosy-uis/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ksanchez84.github.io/talks/leprosy-uis/</guid>
+      <description>&lt;p&gt;This feature from Comunicaciones UIS explores the history of Hansen&amp;rsquo;s disease&#xA;in Santander and highlights Simatec, the technology Karen led to support wound&#xA;assessment and patient care.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Programa 01 Karen Sánchez | Gente de Ciencia</title>
+      <link>https://ksanchez84.github.io/talks/gente-de-ciencia/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ksanchez84.github.io/talks/gente-de-ciencia/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/WDyakljy6FQ?start=659&#34;&#xA;title=&#34;Programa 01 Karen Sánchez | Gente de Ciencia&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>“Personaje de la Semana” en Caracol Radio</title>
+      <link>https://ksanchez84.github.io/talks/caracol-radio/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ksanchez84.github.io/talks/caracol-radio/</guid>
+      <description>&lt;p&gt;Caracol Radio interview about the algorithm developed to support the follow-up&#xA;of wounds in patients with leprosy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Women in Data Science Colombia 2022</title>
+      <link>https://ksanchez84.github.io/talks/talk-2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talks/talk-2/</guid>
+      <guid>https://ksanchez84.github.io/talks/talk-2/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34;&#xA;src=&#34;https://www.youtube.com/embed/QkI1yjof23s?si=LGVPOff1jJG6z2Em&#34;&#xA;title=&#34;YouTube video player&#34;&#xA;frameborder=&#34;0&#34;&#xA;allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>TBD</title>
-      <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
+      <link>https://ksanchez84.github.io/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
+      <guid>https://ksanchez84.github.io/post/vivamus-lacus-mauris/</guid>
       <description>&lt;p&gt;TBD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Application development</title>
-      <link>http://localhost:1313/home/services/service3/</link>
+      <link>https://ksanchez84.github.io/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service3/</guid>
+      <guid>https://ksanchez84.github.io/home/services/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Custom website design</title>
-      <link>http://localhost:1313/home/services/service1/</link>
+      <link>https://ksanchez84.github.io/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service1/</guid>
+      <guid>https://ksanchez84.github.io/home/services/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download HUGO template</title>
-      <link>http://localhost:1313/home/downloads/download2/</link>
+      <link>https://ksanchez84.github.io/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download2/</guid>
+      <guid>https://ksanchez84.github.io/home/downloads/download2/</guid>
       <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>News</title>
-      <link>http://localhost:1313/home/highlights/</link>
+      <link>https://ksanchez84.github.io/home/highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/highlights/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;[Jun 2026] Appointed General Chair of the  &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2026/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2026&lt;/a&gt;, held in Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[May 2026] Our paper in Multimodal Safety was accepted to ACL 2026, San Diego, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Mar 2026] Our paper CURE was accepted for an Oral presentation at CVPR 2026, Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Feb 2026] Co-organized the  &lt;a href=&#34;https://www.kaust.edu.sa/events/rsais26/&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2026&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://ksanchez84.github.io/home/highlights/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[Aug 2026] Launched &lt;a href=&#34;https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT&#34;&gt;&lt;em&gt;Relatos y Ciencia&lt;/em&gt;&lt;/a&gt;, my Spanish-language podcast exploring the stories behind science and discovery.&lt;/li&gt;&#xA;&lt;li&gt;[Jun 2026] Appointed General Chair of the  &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2026/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2026&lt;/a&gt;, held in Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[May 2026] Our paper in Multimodal Safety was accepted to ACL 2026, San Diego, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Mar 2026] Our paper CURE was accepted for an Oral presentation at CVPR 2026, Denver, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Feb 2026] Co-organized the &lt;a href=&#34;https://www.kaust.edu.sa/events/rsais26/&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2026&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;li&gt;[Jun 2025] Co-organized the &lt;a href=&#34;https://sites.google.com/view/wicv-cvpr-2025/home&#34;&gt;⁠Women in Computer Vision (WiCV) Workshop at CVPR 2025&lt;/a&gt;, held in Nashville, USA.&lt;/li&gt;&#xA;&lt;li&gt;[Apr 2025] Invited as a keynote speaker at the 2025 Innovation Week hosted by &lt;a href=&#34;https://fundacionsantafedebogota.com/&#34;&gt;Fundación Santa Fe de Bogotá&lt;/a&gt;, Colombia.&lt;/li&gt;&#xA;&lt;li&gt;[Apr 2025] Co-organized the &lt;a href=&#34;https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025&#34;&gt;⁠KAUST Rising Stars in AI Symposium 2025&lt;/a&gt; at KAUST, Saudi Arabia.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>http://localhost:1313/home/services/service4/</link>
+      <link>https://ksanchez84.github.io/home/services/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service4/</guid>
+      <guid>https://ksanchez84.github.io/home/services/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wordpress integration</title>
-      <link>http://localhost:1313/home/services/service2/</link>
+      <link>https://ksanchez84.github.io/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service2/</guid>
+      <guid>https://ksanchez84.github.io/home/services/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
   </channel>

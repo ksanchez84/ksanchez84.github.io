@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container talks-page">
+    <div class="row topspace">
+      <div class="col-sm-10 col-sm-offset-1">
+        <header class="talks-page-header">
+          <h1>{{ .Title }}</h1>
+        </header>
+
+        <div class="row talks-gallery">
+          {{ range .Pages.ByDate.Reverse }}
+            {{ $destination := .RelPermalink }}
+            {{ with .Params.external_url }}
+              {{ $destination = . }}
+            {{ end }}
+
+            <article class="col-sm-6 col-md-4 talks-gallery-item">
+              <a class="talks-gallery-card" href="{{ $destination }}"
+                 {{ with .Params.external_url }}target="_blank" rel="noopener noreferrer"{{ end }}>
+                <div class="talks-gallery-media">
+                  {{ if .Params.youtube_id }}
+                    <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
+                         alt="Thumbnail for {{ .Title }}">
+                  {{ else if .Params.thumbnail }}
+                    <img src="{{ .Params.thumbnail }}" alt="Thumbnail for {{ .Title }}">
+                  {{ end }}
+                </div>
+
+                <div class="talks-gallery-content">
+                  {{ with .Params.media_label }}
+                    <p class="talks-gallery-label">{{ . }}</p>
+                  {{ end }}
+                  <h2>{{ .Title }}</h2>
+                  <span class="talks-gallery-link">View content <span aria-hidden="true">&rarr;</span></span>
+                </div>
+              </a>
+            </article>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+{{ end }}
