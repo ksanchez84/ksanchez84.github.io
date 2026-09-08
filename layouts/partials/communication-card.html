@@ -8,11 +8,11 @@
     {{ if .Params.youtube_id }}
       <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
            class="media-card-image"
-           alt="Thumbnail for {{ .Title }}">
+           alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
     {{ else if .Params.thumbnail }}
       <img src="{{ .Params.thumbnail }}"
            class="media-card-image"
-           alt="Thumbnail for {{ .Title }}">
+           alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
     {{ end }}
   </a>
   {{ with .Params.media_label }}<p class="media-card-label">{{ . }}</p>{{ end }}

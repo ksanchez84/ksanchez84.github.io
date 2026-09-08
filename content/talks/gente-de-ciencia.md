@@ -1,14 +1,14 @@
 ---
-title: "Programa 01 Karen Sánchez | Gente de Ciencia"
+title: "Karen Sánchez on “People of Science” — Episode 01"
 date: 2022-11-18
 youtube_id: "WDyakljy6FQ"
-media_label: "Radio interview · In Spanish"
+media_label: "Radio interview · Spanish"
 communication_group: "media"
 ---
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/WDyakljy6FQ?start=659"
-title="Programa 01 Karen Sánchez | Gente de Ciencia"
+title="Karen Sánchez on People of Science — Episode 01"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 allowfullscreen></iframe>

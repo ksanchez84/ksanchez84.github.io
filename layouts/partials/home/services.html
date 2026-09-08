@@ -1,17 +1,15 @@
 <div class="col-xs-12">
   <div class="podcast-feature">
     <div class="podcast-intro">
-      <h3>Podcast</h3>
-      <p class="podcast-language">En espa&ntilde;ol &middot; Podcast in Spanish</p>
-      <p>
-        Every discovery has a story. Every scientific advance is the result of curiosity, mistakes, perseverance, and the big questions that drive knowledge. In Relatos y Ciencia, we combine narrative with science to explore ideas, discoveries, people, and innovations that help us better understand the world. Each episode is an invitation to awaken curiosity, question what we think we know, and discover the science behind every story.
-      </p>
+      <h3>{{ i18n "podcast" }}</h3>
+      <p class="podcast-language">{{ i18n "podcast_language" }}</p>
+      <p>{{ i18n "podcast_home_description" }}</p>
     </div>
 
     <iframe
       class="spotify-embed"
       data-testid="embed-iframe"
-      title="Karen Sanchez's podcast on Spotify"
+      title="{{ i18n "podcast" }} Relatos y Ciencia"
       src="https://open.spotify.com/embed/show/033OKtKy1n24FbJPPgmzjT?utm_source=generator&amp;si=918d9bb1e7cc4247"
       width="100%"
       height="352"
@@ -25,12 +23,12 @@
       <a href="https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT"
          target="_blank"
          rel="noopener noreferrer">
-        Listen on Spotify <span aria-hidden="true">&rarr;</span>
+        {{ i18n "listen_on_spotify" }} <span aria-hidden="true">&rarr;</span>
       </a>
     </p>
   </div>
 
-  <h3>Featured Talks, Videos & Media</h3>
+  <h3>{{ i18n "featured_media" }}</h3>
 
   <div class="row media-grid">
     {{ $talkPages := where .Site.RegularPages "Section" "talks" }}
@@ -49,12 +47,12 @@
           {{ if .Params.youtube_id }}
             <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
                  class="media-card-image"
-                 alt="Thumbnail for {{ .Title }}">
+                 alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
 
           {{ else if .Params.thumbnail }}
             <img src="{{ .Params.thumbnail }}"
                  class="media-card-image"
-                 alt="Thumbnail for {{ .Title }}">
+                 alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
 
           {{ end }}
 
@@ -75,7 +73,7 @@
   </div>
 
   <p style="margin-top:15px;">
-    <a href="/talks/">View all... &rarr;</a>
+    <a href="{{ "talks/" | relLangURL }}">{{ i18n "view_all" }} &rarr;</a>
   </p>
 
 

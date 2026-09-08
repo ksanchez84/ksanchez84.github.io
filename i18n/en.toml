@@ -1,0 +1,383 @@
+[language_switch_to]
+other = "View in"
+
+[language_switch_label]
+other = "View this page in Spanish"
+
+[language_selector]
+other = "Language selector"
+
+[toggle_navigation]
+other = "Toggle navigation"
+
+[404_title]
+other = "404"
+
+[404_description]
+other = "This page does not exist."
+
+[hero_tagline]
+other = "AI for Science • Computer Vision • Medical AI"
+
+[hero_bio]
+other = "I am a Postdoctoral Researcher at the Center of Excellence for Generative AI (CoE GenAI) at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. My research focuses on AI for Science, including computer vision, video understanding, privacy-preserving machine learning, and healthcare applications."
+
+[about_cv_button]
+other = "About & CV"
+
+[footer_contact_title]
+other = "Contact"
+
+[footer_followme_title]
+other = "Follow me"
+
+[footer_copyright]
+other = "Copyright"
+
+[footer_design]
+other = "Design"
+
+[footer_powered_by]
+other = "Powered by"
+
+[podcast]
+other = "Podcast"
+
+[podcast_language]
+other = "Podcast in Spanish"
+
+[podcast_home_description]
+other = "Every discovery has a story. Every scientific advance is the result of curiosity, mistakes, perseverance, and the big questions that drive knowledge. In Relatos y Ciencia, we combine narrative with science to explore ideas, discoveries, people, and innovations that help us better understand the world. Each episode is an invitation to awaken curiosity, question what we think we know, and discover the science behind every story."
+
+[listen_on_spotify]
+other = "Listen on Spotify"
+
+[featured_media]
+other = "Featured Talks, Videos & Media"
+
+[view_all]
+other = "View all..."
+
+[thumbnail_for]
+other = "Thumbnail for"
+
+[recent_works_click_text]
+other = "See details"
+
+[resource_paper]
+other = "Paper"
+
+[resource_code]
+other = "Code"
+
+[resource_dataset]
+other = "Dataset"
+
+[resource_website]
+other = "Website"
+
+[resource_project]
+other = "Project"
+
+[resource_code_data]
+other = "Code & Data"
+
+[resource_soccernet]
+other = "SoccerNet"
+
+[publications_kicker]
+other = "Research record"
+
+[publications_intro]
+other = "Peer-reviewed papers, conference publications, datasets, and preprints across medical AI, computer vision, computational imaging, and AI for science."
+
+[publications_source_prefix]
+other = "This list follows my public Google Scholar record. For citation counts and the most recent updates,"
+
+[publications_source_link]
+other = "visit Google Scholar"
+
+[publications_resources_aria]
+other = "Resources for"
+
+[publications_empty]
+other = "The publication list is being updated. Please visit Google Scholar for the current record."
+
+[science_kicker]
+other = "Stories, talks & media"
+
+[science_intro]
+other = "I communicate science through narrative, public talks, interviews, and media—connecting research with Spanish-speaking and international audiences."
+
+[science_podcast_eyebrow]
+other = "Podcast in Spanish"
+
+[science_podcast_description]
+other = "Every discovery has a story. Every scientific advance grows from curiosity, mistakes, perseverance, and the questions that drive knowledge. <em>Relatos y Ciencia</em> combines narrative and science to explore the ideas, people, discoveries, and innovations that help us understand the world."
+
+[science_speaking_eyebrow]
+other = "Speaking"
+
+[science_talks_title]
+other = "Talks & videos"
+
+[science_talks_description]
+other = "Invited talks and presentations about artificial intelligence, medical imaging, research, and the experience of building a scientific career."
+
+[science_media_eyebrow]
+other = "In the media"
+
+[science_media_title]
+other = "Interviews & press coverage"
+
+[science_media_description]
+other = "Conversations and stories about medical AI, chronic wound research, leprosy, rare tumors, and the people behind scientific work."
+
+[science_contact_eyebrow]
+other = "Invitations & collaborations"
+
+[science_contact_title]
+other = "Let’s communicate science"
+
+[science_contact_description]
+other = "For talks, interviews, podcasts, and science communication collaborations:"
+
+[talks_view_content]
+other = "View content"
+
+[about_intro]
+other = "Academic background, professional experience, teaching, service, and honors."
+
+[about_education]
+other = "Education"
+
+[degree_energy]
+other = "Energy Engineering"
+
+[degree_bachelor]
+other = "B.Sc."
+
+[degree_electronic]
+other = "Electronic Engineering"
+
+[degree_master]
+other = "M.Sc."
+
+[degree_engineering]
+other = "Engineering"
+
+[degree_doctorate]
+other = "Ph.D."
+
+[present]
+other = "Present"
+
+[kaust_full]
+other = "King Abdullah University of Science and Technology (KAUST)"
+
+[creatis_lab]
+other = "CREATIS Lab"
+
+[insa_lyon]
+other = "INSA Lyon & Université Claude Bernard Lyon 1."
+
+[ihu_institute]
+other = "Institute of Image Guided Surgery"
+
+[tesa_lab]
+other = "TéSA Laboratory"
+
+[irit_lab]
+other = "IRIT Laboratory"
+
+[kfsc_kaust]
+other = "King Fahad Security College / KAUST Academy."
+
+[wicv_name]
+other = "Women in Computer Vision (WiCV)"
+
+[wicv_workshop]
+other = "Women in Computer Vision (WiCV) workshop"
+
+[rising_stars_name]
+other = "KAUST Rising Stars in AI Symposium"
+
+[soccernet_name]
+other = "SoccerNet Datasets & Challenges"
+
+[lxcv_name]
+other = "LatinX in Computer Vision (LXCV)"
+
+[lxcv_workshop]
+other = "LatinX in Computer Vision (LXCV) workshop"
+
+[stsiva_name]
+other = "XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)"
+
+[sfr_challenge]
+other = "SFR 2021 Artificial Intelligence Data Challenge"
+
+[surgical_summer_school]
+other = "Surgical Data Science Summer School"
+
+[strasbourg_university]
+other = "University of Strasbourg"
+
+[bayer_innovators]
+other = "Bayer Young Community Innovators"
+
+[santander_government]
+other = "Government of Santander"
+
+[guanajuato_university]
+other = "University of Guanajuato"
+
+[paris]
+other = "Paris"
+
+[canada]
+other = "Canada"
+
+[about_experience]
+other = "Experience"
+
+[about_professional_experience]
+other = "Professional Experience"
+
+[role_postdoctoral]
+other = "Postdoctoral Researcher"
+
+[genai_center]
+other = "Center of Excellence for Generative AI."
+
+[ivul_lab]
+other = "Image and Video Understanding Lab (IVUL). PI, Prof. Bernard Ghanem."
+
+[role_research_engineer]
+other = "Research Engineer"
+
+[role_researcher]
+other = "Researcher (M.Sc. & Ph.D.)"
+
+[hdsp_group]
+other = "High Dimensional Signal Processing Research Group (HDSP), Colombia."
+
+[role_young_researcher]
+other = "Young Researcher"
+
+[about_research_visits]
+other = "Research Visits"
+
+[role_research_internship]
+other = "Research Internship"
+
+[creatis_center]
+other = "Center for Research in Image Acquisition and Processing for Health"
+
+[edu4sds_title]
+other = "edu4SDS: 1st Surgical Data Science Summer School"
+
+[tesa_description]
+other = "Cooperative research laboratory in Telecommunications for Space and Aeronautics"
+
+[role_research_collaborator]
+other = "Research Collaborator"
+
+[irit_description]
+other = "Institut de Recherche en Informatique de Toulouse"
+
+[summer_program_title]
+other = "International Summer Research Program"
+
+[summer_program_description]
+other = "Eight-week summer program offered by the International Office of the University of Guanajuato, Mexico."
+
+[about_teaching]
+other = "Teaching"
+
+[role_teaching_assistant]
+other = "Teaching Assistant"
+
+[teaching_description]
+other = "Deep Learning Course for M.Sc. students in Artificial Intelligence."
+
+[about_academic_service]
+other = "Academic Service"
+
+[role_general_chair]
+other = "General Chair"
+
+[role_organizer]
+other = "Organizer"
+
+[role_communications_chair]
+other = "Communications Chair"
+
+[role_outreach_chair]
+other = "Outreach Chair"
+
+[role_publicity_chair]
+other = "Publicity Chair"
+
+[workshop]
+other = "workshop"
+
+[about_awards]
+other = "Honors & Awards"
+
+[award_thesis]
+other = "Doctoral Thesis with Highest Honors (Laureated Thesis)"
+
+[award_thesis_title]
+other = "Deep learning algorithms design for medical imaging in computer-aided diagnosis tasks."
+
+[award_third_place]
+other = "3rd Place Winner"
+
+[award_challenge]
+other = "Data Augmentation in AI at the Service of Rare Tumors"
+
+[award_scholarship_recipient]
+other = "Scholarship Recipient"
+
+[award_second_place]
+other = "2nd Place Winner"
+
+[award_project_prefix]
+other = "Award-winning project:"
+
+[award_cocoa_project]
+other = "Spectroscopy, the New Era of Cocoa"
+
+[award_national_scholarship]
+other = "National Scholarship for Master's Studies"
+
+[award_by_minciencias]
+other = "awarded by MinCiencias, Colombia."
+
+[award_research_medal]
+other = "Special Recognition Medal for Research Excellence"
+
+[award_academic_excellence]
+other = "Academic Excellence in Research"
+
+[award_first_place]
+other = "1st Place Winner"
+
+[award_energy_prize]
+other = "National Prize for Energy Efficiency, Colombia Energy Prospective 2050 Project."
+
+[award_summer_research]
+other = "Summer of Scientific Research"
+
+[saudi_arabia]
+other = "Saudi Arabia"
+
+[united_states]
+other = "USA"
+
+[france]
+other = "France"
+
+[mexico]
+other = "Mexico"

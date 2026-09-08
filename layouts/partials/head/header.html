@@ -8,10 +8,10 @@
         <div class="hero-content">
             <h1>{{ .Site.Params.name }}</h1>
             <p class="hero-tagline">
-               AI for Science • Computer Vision • Medical AI
+               {{ i18n "hero_tagline" }}
             </p>
             <p>
-              I am a Postdoctoral Researcher at the Center of Excellence for Generative AI (CoE GenAI) at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. My research focuses on AI for Science, including computer vision, video understanding, privacy-preserving machine learning, and healthcare applications.
+              {{ i18n "hero_bio" }}
             </p>
 
             <ul class="social-buttons">
@@ -24,11 +24,11 @@
                 {{ end }}
             </ul>
             <div class="hero-buttons">
-              <a href="/about/" class="btn-primary-custom">
-                <i class="fa fa-file-text-o"></i> About &amp; CV
+              <a href="{{ "about/" | relLangURL }}" class="btn-primary-custom">
+                <i class="fa fa-file-text-o"></i> {{ i18n "about_cv_button" }}
               </a>
 
-               <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&hl=en&oi=ao"
+               <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl={{ .Lang }}&amp;oi=ao"
                target="_blank"
                class="btn-secondary-custom">
                  <i class="fa fa-graduation-cap"></i> Google Scholar

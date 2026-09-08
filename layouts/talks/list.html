@@ -20,9 +20,9 @@
                 <div class="talks-gallery-media">
                   {{ if .Params.youtube_id }}
                     <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
-                         alt="Thumbnail for {{ .Title }}">
+                         alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
                   {{ else if .Params.thumbnail }}
-                    <img src="{{ .Params.thumbnail }}" alt="Thumbnail for {{ .Title }}">
+                    <img src="{{ .Params.thumbnail }}" alt="{{ i18n "thumbnail_for" }} {{ .Title }}">
                   {{ end }}
                 </div>
 
@@ -31,7 +31,7 @@
                     <p class="talks-gallery-label">{{ . }}</p>
                   {{ end }}
                   <h2>{{ .Title }}</h2>
-                  <span class="talks-gallery-link">View content <span aria-hidden="true">&rarr;</span></span>
+                  <span class="talks-gallery-link">{{ i18n "talks_view_content" }} <span aria-hidden="true">&rarr;</span></span>
                 </div>
               </a>
             </article>

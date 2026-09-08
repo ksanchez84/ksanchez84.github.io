@@ -7,14 +7,14 @@
 
       <div class="resume-intro">
         <h1 class="resume-title">{{ .Title }}</h1>
-        <p>Academic background, professional experience, teaching, service, and honors.</p>
+        <p>{{ i18n "about_intro" }}</p>
       </div>
     </section>
 
     <section class="row section topspace">
 
     <h2 class="section-title resume-section-title">
-        <span>Education</span>
+        <span>{{ i18n "about_education" }}</span>
     </h2>
 
     {{ partial "home/about.html" . }}
@@ -23,28 +23,28 @@
     <section class="row section topspace">
 
     <h2 class="section-title resume-section-title">
-        <span>Experience</span>
+        <span>{{ i18n "about_experience" }}</span>
     </h2>
 
     <h3 class="resume-subtitle">
         <i class="fa fa-briefcase"></i>
-        Professional Experience
+        {{ i18n "about_professional_experience" }}
     </h3>
 
     <div class="service-item">
-    <div class="service-year">2024–Present</div>
+    <div class="service-year">2024–{{ i18n "present" }}</div>
     <div class="service-content">
-        <strong>Postdoctoral Researcher</strong><br>
-        King Abdullah University of Science and Technology (KAUST), Saudi Arabia.<br>
-        Center of Excellence for Generative AI.<br>
-        Image and Video Understanding Lab (IVUL). PI, Prof. Bernard Ghanem.
+        <strong>{{ i18n "role_postdoctoral" }}</strong><br>
+        {{ i18n "kaust_full" }}, {{ i18n "saudi_arabia" }}.<br>
+        {{ i18n "genai_center" }}<br>
+        {{ i18n "ivul_lab" }}
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2019–2023</div>
     <div class="service-content">
-        <strong>Research Engineer</strong><br>
+        <strong>{{ i18n "role_research_engineer" }}</strong><br>
         Universidad Industrial de Santander (UIS), Colombia.
     </div>
     </div>
@@ -52,78 +52,78 @@
     <div class="service-item">
     <div class="service-year">2017–2023</div>
     <div class="service-content">
-        <strong>Researcher (M.Sc. & Ph.D.)</strong><br>
-        High Dimensional Signal Processing Research Group (HDSP), Colombia.
+        <strong>{{ i18n "role_researcher" }}</strong><br>
+        {{ i18n "hdsp_group" }}
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2015</div>
     <div class="service-content">
-        <strong>Young Researcher</strong><br>
+        <strong>{{ i18n "role_young_researcher" }}</strong><br>
         Ecopetrol, Colombia.
     </div>
     </div>
 
     <h3 class="resume-subtitle">
         <i class="fa fa-university"></i>
-        Research Visits
+        {{ i18n "about_research_visits" }}
     </h3>
 
     <div class="service-item">
     <div class="service-year">2022-2023</div>
     <div class="service-content">
-        <strong>Research Internship</strong><br>
-        Center for Research in Image Acquisition and Processing for Health
-    <a href="https://www.creatis.insa-lyon.fr/site/en" target="_blank">CREATIS Lab</a>,
-    INSA Lyon & Université Claude Bernard Lyon 1.<br>
-    Lyon, France.
+        <strong>{{ i18n "role_research_internship" }}</strong><br>
+        {{ i18n "creatis_center" }}
+    <a href="https://www.creatis.insa-lyon.fr/site/en" target="_blank">{{ i18n "creatis_lab" }}</a>,
+    {{ i18n "insa_lyon" }}<br>
+    Lyon, {{ i18n "france" }}.
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2022</div>
     <div class="service-content">
-        <strong>edu4SDS: 1st Surgical Data Science Summer School</strong><br>
-        Institute Surgery Guided Par L'image - <a href="https://www.edu4sds.org/" target="_blank">IHU Strasbourg</a>, France.
+        <strong>{{ i18n "edu4sds_title" }}</strong><br>
+        {{ i18n "ihu_institute" }} - <a href="https://www.edu4sds.org/" target="_blank">IHU Strasbourg</a>, {{ i18n "france" }}.
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2021</div>
     <div class="service-content">
-        <strong>Research Internship</strong><br>
-        Cooperative research laboratory in Telecommunications for Space and Aeronautics - <a href="https://www.tesa.prd.fr/en/home/" target="_blank">TéSA Laboratory</a>, Toulouse, France.
+        <strong>{{ i18n "role_research_internship" }}</strong><br>
+        {{ i18n "tesa_description" }} - <a href="https://www.tesa.prd.fr/en/home/" target="_blank">{{ i18n "tesa_lab" }}</a>, Toulouse, {{ i18n "france" }}.
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2019–2023</div>
     <div class="service-content">
-        <strong>Research Collaborator</strong><br>
-        Institut de Recherche en Informatique de Toulouse - <a href="https://www.irit.fr/en/home/" target="_blank">IRIT Laboratory</a>, Toulouse, France.
+        <strong>{{ i18n "role_research_collaborator" }}</strong><br>
+        {{ i18n "irit_description" }} - <a href="https://www.irit.fr/en/home/" target="_blank">{{ i18n "irit_lab" }}</a>, Toulouse, {{ i18n "france" }}.
     </div>
     </div>
 
     <div class="service-item">
     <div class="service-year">2016</div>
     <div class="service-content">
-        <strong>International Summer Research Program</strong><br>
-        Eight-week <a href="https://ugto.mx/internacional/index.php/verano-de-la-investigaci%C3%B3n-para-extranjeros" target="_blank">summer program</a> offered by the International Office of the University of Guanajuato, Mexico.
+        <strong>{{ i18n "summer_program_title" }}</strong><br>
+        {{ i18n "summer_program_description" }}
     </div>
     </div>
 
     <h3 class="resume-subtitle">
         <i class="fa fa-book"></i>
-        Teaching
+        {{ i18n "about_teaching" }}
     </h3>
 
     <div class="service-item">
      <div class="service-year">2025</div>
         <div class="service-content">
-        <strong>Teaching Assistant</strong><br>
-        Deep Learning Course for M.Sc. students in Artificial Intelligence.<br>
-        King Fahad Security College / KAUST Academy.
+        <strong>{{ i18n "role_teaching_assistant" }}</strong><br>
+        {{ i18n "teaching_description" }}<br>
+        {{ i18n "kfsc_kaust" }}
     </div>
     </div>
 
@@ -132,7 +132,7 @@
 
     <section class="row section topspace">
       <h2 class="section-title resume-section-title">
-        <span>Academic Service</span>
+        <span>{{ i18n "about_academic_service" }}</span>
       </h2>
 
       <div class="service-timeline">
@@ -140,42 +140,42 @@
     <div class="service-item">
         <div class="service-year">2026</div>
         <div class="service-content">
-            <strong>General Chair</strong>, <a href="https://sites.google.com/view/wicv-cvpr-2026/committee?authuser=0">Women in Computer Vision (WiCV) workshop</a>, CVPR 2026. Denver, USA.<br>
-            <strong>Organizer</strong>, <a href="https://www.kaust.edu.sa/events/rsais26/">KAUST Rising Stars in AI Symposium 2026</a>.<br>
-            <strong>Communications Chair</strong>, SoccerNet Datasets & Challenges 2026.
+            <strong>{{ i18n "role_general_chair" }}</strong>, <a href="https://sites.google.com/view/wicv-cvpr-2026/committee?authuser=0">{{ i18n "wicv_workshop" }}</a>, CVPR 2026. Denver, {{ i18n "united_states" }}.<br>
+            <strong>{{ i18n "role_organizer" }}</strong>, <a href="https://www.kaust.edu.sa/events/rsais26/">{{ i18n "rising_stars_name" }} 2026</a>.<br>
+            <strong>{{ i18n "role_communications_chair" }}</strong>, {{ i18n "soccernet_name" }} 2026.
         </div>
     </div>
 
     <div class="service-item">
         <div class="service-year">2025</div>
         <div class="service-content">
-            <strong>Outreach Chair</strong>, <a href="https://sites.google.com/view/wicv-cvpr-2025/committee?authuser=0">Women in Computer Vision (WiCV) workshop</a>, CVPR 2025. Nashville, USA.<br>
-            <strong>Organizer</strong>, <a href="https://www.kaust.edu.sa/news/rising-stars-in-ai-symposium-2025">KAUST Rising Stars in AI Symposium 2025</a>.<br>
-            <strong>Outreach Chair</strong>, LatinX in Computer Vision (LXCV) workshop, CVPR 2025. Nashville, USA.<br>
-            <strong>Communications Chair</strong>, SoccerNet Datasets & Challenges 2025.
+            <strong>{{ i18n "role_outreach_chair" }}</strong>, <a href="https://sites.google.com/view/wicv-cvpr-2025/committee?authuser=0">{{ i18n "wicv_workshop" }}</a>, CVPR 2025. Nashville, {{ i18n "united_states" }}.<br>
+            <strong>{{ i18n "role_organizer" }}</strong>, <a href="https://www.kaust.edu.sa/news/rising-stars-in-ai-symposium-2025">{{ i18n "rising_stars_name" }} 2025</a>.<br>
+            <strong>{{ i18n "role_outreach_chair" }}</strong>, {{ i18n "lxcv_workshop" }}, CVPR 2025. Nashville, {{ i18n "united_states" }}.<br>
+            <strong>{{ i18n "role_communications_chair" }}</strong>, {{ i18n "soccernet_name" }} 2025.
         </div>
     </div>
 
     <div class="service-item">
         <div class="service-year">2023</div>
         <div class="service-content">
-        <strong>Outreach Chair</strong>, LatinX in Computer Vision (LXCV) workshop:<br>
-        ICCV 2023 — Paris, France.<br>
-        CVPR 2023 — Vancouver, Canada.
+        <strong>{{ i18n "role_outreach_chair" }}</strong>, {{ i18n "lxcv_workshop" }}:<br>
+        ICCV 2023 — {{ i18n "paris" }}, {{ i18n "france" }}.<br>
+        CVPR 2023 — Vancouver, {{ i18n "canada" }}.
     </div>
     </div>
 
     <div class="service-item">
         <div class="service-year">2022</div>
         <div class="service-content">
-            <strong>Outreach Chair</strong>, LatinX in Computer Vision (LXCV) workshop, CVPR 2022. Seattle, USA.
+            <strong>{{ i18n "role_outreach_chair" }}</strong>, {{ i18n "lxcv_workshop" }}, CVPR 2022. Seattle, {{ i18n "united_states" }}.
         </div>
     </div>
 
     <div class="service-item">
         <div class="service-year">2019</div>
         <div class="service-content">
-            <strong>Publicity Chair</strong>, <a href="https://ieeexplore.ieee.org/document/8730266">2019 XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)</a>. Bucaramanga, Colombia.
+            <strong>{{ i18n "role_publicity_chair" }}</strong>, <a href="https://ieeexplore.ieee.org/document/8730266">2019 {{ i18n "stsiva_name" }}</a>. Bucaramanga, Colombia.
         </div>
     </div>
 
@@ -185,63 +185,62 @@
     <section class="row section">
 
     <h2 class="section-title resume-section-title">
-        <span>Honors & Awards</span>
+        <span>{{ i18n "about_awards" }}</span>
     </h2>
 
     <div class="service-timeline">
         <div class="service-item">
     <div class="service-year">2023</div>
     <div class="service-content">
-        <strong>Doctoral Thesis with Highest Honors (Laureated Thesis)</strong>,
-        "Deep learning algorithms design for medical imaging in computer-aided diagnosis tasks." Universidad Industrial de Santander, Colombia.
+        <strong>{{ i18n "award_thesis" }}</strong>,
+        "{{ i18n "award_thesis_title" }}" Universidad Industrial de Santander, Colombia.
     </div>
 </div>
 
 <div class="service-item">
     <div class="service-year">2022</div>
     <div class="service-content">
-        <strong>3rd Place Winner</strong>, SFR 2021 Artificial Intelligence Data Challenge,
-        "Data Augmentation in AI at the Service of Rare Tumors",
-        Société Française de Radiologie, France.
+        <strong>{{ i18n "award_third_place" }}</strong>, {{ i18n "sfr_challenge" }},
+        "{{ i18n "award_challenge" }}",
+        Société Française de Radiologie, {{ i18n "france" }}.
         <br><br>
 
-        <strong>Scholarship Recipient</strong>, Surgical Data Science Summer School,
-        Institute of Image Guided Surgery (IHU),
-        University of Strasbourg, France.
+        <strong>{{ i18n "award_scholarship_recipient" }}</strong>, {{ i18n "surgical_summer_school" }},
+        {{ i18n "ihu_institute" }} (IHU),
+        {{ i18n "strasbourg_university" }}, {{ i18n "france" }}.
     </div>
 </div>
 
 <div class="service-item">
     <div class="service-year">2017</div>
     <div class="service-content">
-        <strong>2nd Place Winner</strong>, Bayer Young Community Innovators,
-        Award-winning project: <em>Spectroscopy, the New Era of Cocoa</em>, Colombia.
+        <strong>{{ i18n "award_second_place" }}</strong>, {{ i18n "bayer_innovators" }},
+        {{ i18n "award_project_prefix" }} <em>{{ i18n "award_cocoa_project" }}</em>, Colombia.
         <br><br>
 
-        <strong>National Scholarship</strong> for Master's Studies,
-        awarded by MinCiencias, Colombia.
+        <strong>{{ i18n "award_national_scholarship" }}</strong>,
+        {{ i18n "award_by_minciencias" }}
         <br><br>
 
-        <strong>Special Recognition Medal for Research Excellence</strong>,
-        Government of Santander, Colombia.
+        <strong>{{ i18n "award_research_medal" }}</strong>,
+        {{ i18n "santander_government" }}, Colombia.
     </div>
 </div>
 
 <div class="service-item">
     <div class="service-year">2016</div>
     <div class="service-content">
-        <strong>Academic Excellence in Research</strong>,
+        <strong>{{ i18n "award_academic_excellence" }}</strong>,
         Universidad Autónoma de Bucaramanga (UNAB), Colombia.
         <br><br>
 
-        <strong>1st Place Winner</strong>,
-        National Prize for Energy Efficiency,
-        Colombia Energy Prospective 2050 Project.
+        <strong>{{ i18n "award_first_place" }}</strong>,
+        {{ i18n "award_energy_prize" }}
         <br><br>
 
-        <strong>Scholarship Recipient</strong>,
-        Summer of Scientific Research,
-        University of Guanajuato, Mexico.
+        <strong>{{ i18n "award_scholarship_recipient" }}</strong>,
+        {{ i18n "award_summer_research" }},
+        {{ i18n "guanajuato_university" }}, {{ i18n "mexico" }}.
     </div>
 </div>
         <!-- Aquí van los awards -->

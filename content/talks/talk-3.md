@@ -2,7 +2,7 @@
 title: "Ph.D. Journey: Research and Publications at UIS"
 date: 2023-12-16
 thumbnail: "/images/video_thesis.png"
-media_label: "Graduation Ceremony Video"
+media_label: "Graduation ceremony video"
 communication_group: "talks"
 ---
 

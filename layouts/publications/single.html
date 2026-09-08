@@ -2,12 +2,12 @@
 <main id="main">
   <div class="container profile-page publications-page">
     <header class="profile-page-intro">
-      <p class="page-kicker">Research record</p>
+      <p class="page-kicker">{{ i18n "publications_kicker" }}</p>
       <h1>{{ .Title }}</h1>
-      <p class="page-lead">Peer-reviewed papers, conference publications, datasets, and preprints across medical AI, computer vision, computational imaging, and AI for science.</p>
+      <p class="page-lead">{{ i18n "publications_intro" }}</p>
       <p class="publication-source-note">
-        This list follows my public Google Scholar record. For citation counts and the most recent updates,
-        <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">visit Google Scholar</a>.
+        {{ i18n "publications_source_prefix" }}
+        <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl={{ .Lang }}&amp;oi=ao" target="_blank" rel="noopener noreferrer">{{ i18n "publications_source_link" }}</a>.
       </p>
     </header>
 
@@ -33,16 +33,24 @@
               <p class="publication-venue">{{ .venue }}</p>
             </div>
             {{ with .resources }}
-              <div class="publication-links" aria-label="Resources for {{ $publication.title }}">
+              {{ $resourceLabels := dict
+                "Paper" (i18n "resource_paper")
+                "Code" (i18n "resource_code")
+                "Dataset" (i18n "resource_dataset")
+                "Project" (i18n "resource_project")
+                "Code & Data" (i18n "resource_code_data")
+                "SoccerNet" (i18n "resource_soccernet")
+              }}
+              <div class="publication-links" aria-label="{{ i18n "publications_resources_aria" }} {{ $publication.title }}">
                 {{ range . }}
-                  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+                  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ default .name (index $resourceLabels .name) }}</a>
                 {{ end }}
               </div>
             {{ end }}
           </article>
         {{ end }}
       {{ else }}
-        <p class="publication-source-note">The publication list is being updated. Please visit Google Scholar for the current record.</p>
+        <p class="publication-source-note">{{ i18n "publications_empty" }}</p>
       {{ end }}
     </div>
   </div>

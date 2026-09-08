@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karen Sanchez</title><link>https://ksanchez84.github.io/es/</link><description>Recent content on Karen Sanchez</description><generator>Hugo</generator><language>es</language><lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ksanchez84.github.io/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Investigación</title><link>https://ksanchez84.github.io/es/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/research/</guid><description>&lt;div class="profile-page-intro">
+ &lt;p class="page-kicker">IA para la ciencia&lt;/p>
+ &lt;h1>Investigación&lt;/h1>
+ &lt;p class="page-lead">Desarrollo métodos de visión por computador y aprendizaje multimodal para aplicaciones científicas y de salud, con énfasis en la confiabilidad, la privacidad y el impacto en el mundo real.&lt;/p>
+&lt;/div>
+&lt;section class="research-areas" aria-labelledby="research-areas-title">
+ &lt;h2 id="research-areas-title" class="profile-section-title">Áreas de investigación&lt;/h2>
+ &lt;div class="research-area-grid">
+ &lt;article class="research-area-card">
+ &lt;p class="card-number">01&lt;/p>
+ &lt;h3>IA médica&lt;/h3>
+ &lt;p>Visión por computador y aprendizaje multimodal para radiología, evaluación de heridas crónicas, segmentación anatómica y diagnóstico asistido por computador.&lt;/p>
+ &lt;/article>
+ &lt;article class="research-area-card">
+ &lt;p class="card-number">02&lt;/p>
+ &lt;h3>IA multimodal confiable&lt;/h3>
+ &lt;p>Métodos y protocolos de evaluación que mejoran el anclaje visual, la consistencia factual, la seguridad y la confiabilidad de los modelos generativos.&lt;/p></description></item><item><title>Publicaciones</title><link>https://ksanchez84.github.io/es/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/publications/</guid><description/></item><item><title>Comunicación de la ciencia</title><link>https://ksanchez84.github.io/es/science-communication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/science-communication/</guid><description/></item><item><title>Acerca de mí y CV</title><link>https://ksanchez84.github.io/es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/about/</guid><description/></item><item><title>Semana de la Innovación y la Sostenibilidad (FSFB)</title><link>https://ksanchez84.github.io/es/talks/fsfb-news/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/fsfb-news/</guid><description>&lt;p>&lt;img src="https://ksanchez84.github.io/images/FSFB.jpg"
+alt="Semana de la Innovación y la Sostenibilidad de la Fundación Santa Fe de Bogotá"
+style="width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;">&lt;/p></description></item><item><title>La enfermedad del exilio: Una historia de la lepra en Colombia</title><link>https://ksanchez84.github.io/es/talks/leprosy-documentary/</link><pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/leprosy-documentary/</guid><description>&lt;iframe width="560" height="315"
+src="https://www.youtube.com/embed/EqFhGJEB9V4"
+title="La enfermedad del exilio: Una historia de la lepra en Colombia"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen>&lt;/iframe></description></item><item><title>Mujeres en IA con Voxel51</title><link>https://ksanchez84.github.io/es/talks/talk-1/</link><pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/talk-1/</guid><description>&lt;iframe width="560" height="315"
+src="https://www.youtube.com/embed/6YD9lad4cGw?si=I4NfcRF2mmGhyZm3"
+title="Mujeres en IA con Voxel51"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>&lt;/iframe></description></item><item><title>Trayectoria doctoral: investigación y publicaciones en la UIS</title><link>https://ksanchez84.github.io/es/talks/talk-3/</link><pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/talk-3/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/watch?v=gK7gyFbVsdc"
+target="_blank">&lt;/p>
+&lt;p>&lt;img src="https://ksanchez84.github.io/images/video_thesis.png"
+alt="Video de la tesis doctoral"
+style="width:100%; max-width:900px; display:block; margin:auto; border-radius:10px;">
+&lt;/a>&lt;/p>
+&lt;p style="text-align:center; margin-top:20px;">
+&lt;a href="https://www.youtube.com/watch?v=gK7gyFbVsdc"
+ target="_blank">
+▶ Ver la ceremonia completa en YouTube
+&lt;/a>
+&lt;/p></description></item><item><title>Lepra: una historia que deja ‘llaga’ en Santander</title><link>https://ksanchez84.github.io/es/talks/leprosy-uis/</link><pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/leprosy-uis/</guid><description>&lt;p>Esta noticia de Comunicaciones UIS explora la historia de la enfermedad de Hansen en Santander y destaca Simatec, la tecnología que Karen lideró para apoyar la evaluación de heridas y la atención de pacientes.&lt;/p></description></item><item><title>Programa 01: Karen Sánchez | Gente de Ciencia</title><link>https://ksanchez84.github.io/es/talks/gente-de-ciencia/</link><pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/gente-de-ciencia/</guid><description>&lt;iframe width="560" height="315"
+src="https://www.youtube.com/embed/WDyakljy6FQ?start=659"
+title="Programa 01: Karen Sánchez | Gente de Ciencia"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen>&lt;/iframe></description></item><item><title>“Personaje de la Semana” en Caracol Radio</title><link>https://ksanchez84.github.io/es/talks/caracol-radio/</link><pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/caracol-radio/</guid><description>&lt;p>Entrevista en Caracol Radio sobre el algoritmo desarrollado para apoyar el seguimiento de heridas en pacientes con lepra.&lt;/p></description></item><item><title>Estudiantes UIS obtienen tercer lugar en concurso mundial de IA al servicio de tumores raros</title><link>https://ksanchez84.github.io/es/talks/rare-tumors-uis/</link><pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/rare-tumors-uis/</guid><description>&lt;p>Noticia oficial de la UIS sobre el tercer lugar obtenido por el equipo en una competencia internacional de inteligencia artificial centrada en imágenes médicas para tumores raros.&lt;/p></description></item><item><title>Mujeres en Ciencia de Datos Colombia 2022</title><link>https://ksanchez84.github.io/es/talks/talk-2/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/talks/talk-2/</guid><description>&lt;iframe width="560" height="315"
+src="https://www.youtube.com/embed/QkI1yjof23s?si=LGVPOff1jJG6z2Em"
+title="Mujeres en Ciencia de Datos Colombia 2022"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>&lt;/iframe></description></item><item><title>Noticias</title><link>https://ksanchez84.github.io/es/home/highlights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ksanchez84.github.io/es/home/highlights/</guid><description>&lt;ul>
+&lt;li>[Ago. 2026] Lancé &lt;a href="https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT">&lt;em>Relatos y Ciencia&lt;/em>&lt;/a>, mi pódcast en español que explora las historias detrás de la ciencia y los descubrimientos.&lt;/li>
+&lt;li>[Jun. 2026] Fui nombrada presidenta general del &lt;a href="https://sites.google.com/view/wicv-cvpr-2026/home">taller Mujeres en Visión por Computador (WiCV) en CVPR 2026&lt;/a>, realizado en Denver, Estados Unidos.&lt;/li>
+&lt;li>[May. 2026] Nuestro artículo sobre seguridad multimodal fue aceptado en ACL 2026, San Diego, Estados Unidos.&lt;/li>
+&lt;li>[Mar. 2026] Nuestro artículo CURE fue aceptado como presentación oral en CVPR 2026, Denver, Estados Unidos.&lt;/li>
+&lt;li>[Feb. 2026] Coorganicé el &lt;a href="https://www.kaust.edu.sa/events/rsais26/">Simposio KAUST de Estrellas Emergentes en IA 2026&lt;/a> en KAUST, Arabia Saudita.&lt;/li>
+&lt;li>[Jun. 2025] Coorganicé el &lt;a href="https://sites.google.com/view/wicv-cvpr-2025/home">taller Mujeres en Visión por Computador (WiCV) en CVPR 2025&lt;/a>, realizado en Nashville, Estados Unidos.&lt;/li>
+&lt;li>[Abr. 2025] Fui conferencista principal en la Semana de la Innovación 2025 organizada por la &lt;a href="https://fundacionsantafedebogota.com/">Fundación Santa Fe de Bogotá&lt;/a>, Colombia.&lt;/li>
+&lt;li>[Abr. 2025] Coorganicé el &lt;a href="https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025">Simposio KAUST de Estrellas Emergentes en IA 2025&lt;/a> en KAUST, Arabia Saudita.&lt;/li>
+&lt;/ul></description></item></channel></rss>

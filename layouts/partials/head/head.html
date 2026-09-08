@@ -1,4 +1,7 @@
 	<title>{{ .Title }}</title>
+	{{ range .AllTranslations }}
+	<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+	{{ end }}
 	<link rel="shortcut icon" href="{{ relURL .Site.Params.favicon }}">
 
 	<!-- Bootstrap -->

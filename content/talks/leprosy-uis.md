@@ -1,5 +1,5 @@
 ---
-title: "Lepra: una historia que deja ‘llaga’ en Santander"
+title: "Leprosy: A Story That Leaves a Wound in Santander"
 date: 2023-12-13
 thumbnail: "/images/newspaper.jpg"
 external_url: "https://comunicaciones.uis.edu.co/https-comunicaciones-uis-edu-co-lepra-una-historia-que-deja-llaga-en-santander/"

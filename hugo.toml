@@ -1,7 +1,36 @@
 baseURL = "https://ksanchez84.github.io/"
 languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 title = "Karen Sanchez"
 theme = "hugo-initio"
+
+[languages]
+    [languages.en]
+        languageCode = "en"
+        languageName = "English"
+        title = "Karen Sanchez"
+        weight = 1
+        [languages.en.params]
+            description = "Postdoctoral Researcher"
+            address = "KAUST, Thuwal, Saudi Arabia"
+        [[languages.en.menus.main]]
+            name = "Home"
+            url = "/"
+            weight = 1
+
+    [languages.es]
+        languageCode = "es"
+        languageName = "Español"
+        title = "Karen Sanchez"
+        weight = 2
+        [languages.es.params]
+            description = "Investigadora posdoctoral"
+            address = "KAUST, Thuwal, Arabia Saudita"
+        [[languages.es.menus.main]]
+            name = "Inicio"
+            url = "/"
+            weight = 1
 
 [params]
     name = "Karen Sanchez"
@@ -28,11 +57,6 @@ theme = "hugo-initio"
     showFooterFollowMe = true
     showFooterTextWidget = false
     showFooterFormWidget = false
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

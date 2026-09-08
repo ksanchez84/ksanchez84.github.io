@@ -1,9 +1,9 @@
 ---
-title: "Estudiantes UIS obtienen tercer lugar en concurso mundial de inteligencia artificial al servicio de tumores raros"
+title: "UIS Students Place Third in Global AI Competition for Rare Tumors"
 date: 2022-04-08
 thumbnail: "/images/rare-tumors-uis.jpg"
 external_url: "https://comunicaciones.uis.edu.co/estudiantes-uis-obtienen-destacado-lugar-en-concurso-mundial-de-inteligencia-artificial-al-servicio-de-tumores-raros/"
-media_label: "Press coverage · In Spanish"
+media_label: "Press coverage · Spanish"
 communication_group: "media"
 home_featured: false
 ---

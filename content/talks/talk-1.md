@@ -2,7 +2,7 @@
 title: "Women in AI by Voxel51"
 date: 2025-11-13
 youtube_id: "6YD9lad4cGw"
-media_label: "Invited Speaker · Talk Video"
+media_label: "Invited speaker · Talk video"
 communication_group: "talks"
 ---
 

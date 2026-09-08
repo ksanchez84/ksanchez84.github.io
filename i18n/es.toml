@@ -1,0 +1,383 @@
+[language_switch_to]
+other = "Ver en"
+
+[language_switch_label]
+other = "Ver esta página en inglés"
+
+[language_selector]
+other = "Selector de idioma"
+
+[toggle_navigation]
+other = "Abrir o cerrar la navegación"
+
+[404_title]
+other = "404"
+
+[404_description]
+other = "Esta página no existe."
+
+[hero_tagline]
+other = "IA para la ciencia • Visión por computador • IA médica"
+
+[hero_bio]
+other = "Soy investigadora posdoctoral en el Centro de Excelencia en IA Generativa (CoE GenAI) de la Universidad de Ciencia y Tecnología Rey Abdalá (KAUST), Arabia Saudita. Mi investigación se centra en la IA para la ciencia, incluida la visión por computador, la comprensión de video, el aprendizaje automático con preservación de la privacidad y las aplicaciones en salud."
+
+[about_cv_button]
+other = "Acerca de mí y CV"
+
+[footer_contact_title]
+other = "Contacto"
+
+[footer_followme_title]
+other = "Sígueme"
+
+[footer_copyright]
+other = "Derechos de autor"
+
+[footer_design]
+other = "Diseño"
+
+[footer_powered_by]
+other = "Creado con"
+
+[podcast]
+other = "Pódcast"
+
+[podcast_language]
+other = "Pódcast en español"
+
+[podcast_home_description]
+other = "Cada descubrimiento tiene una historia. Cada avance científico es el resultado de la curiosidad, los errores, la perseverancia y las grandes preguntas que impulsan el conocimiento. En Relatos y Ciencia combinamos narrativa y ciencia para explorar ideas, descubrimientos, personas e innovaciones que nos ayudan a comprender mejor el mundo. Cada episodio es una invitación a despertar la curiosidad, cuestionar lo que creemos saber y descubrir la ciencia detrás de cada historia."
+
+[listen_on_spotify]
+other = "Escuchar en Spotify"
+
+[featured_media]
+other = "Charlas, videos y apariciones destacadas"
+
+[view_all]
+other = "Ver todo..."
+
+[thumbnail_for]
+other = "Imagen de"
+
+[recent_works_click_text]
+other = "Ver detalles"
+
+[resource_paper]
+other = "Artículo"
+
+[resource_code]
+other = "Código"
+
+[resource_dataset]
+other = "Conjunto de datos"
+
+[resource_website]
+other = "Sitio web"
+
+[resource_project]
+other = "Proyecto"
+
+[resource_code_data]
+other = "Código y datos"
+
+[resource_soccernet]
+other = "SoccerNet"
+
+[publications_kicker]
+other = "Trayectoria investigadora"
+
+[publications_intro]
+other = "Artículos revisados por pares, publicaciones en conferencias, conjuntos de datos y prepublicaciones sobre IA médica, visión por computador, imágenes computacionales e IA para la ciencia."
+
+[publications_source_prefix]
+other = "Esta lista sigue mi perfil público de Google Scholar. Para consultar las citas y las actualizaciones más recientes,"
+
+[publications_source_link]
+other = "visita Google Scholar"
+
+[publications_resources_aria]
+other = "Recursos para"
+
+[publications_empty]
+other = "La lista de publicaciones se está actualizando. Consulta Google Scholar para ver el registro actual."
+
+[science_kicker]
+other = "Relatos, charlas y medios"
+
+[science_intro]
+other = "Comunico la ciencia mediante relatos, charlas públicas, entrevistas y medios, conectando la investigación con públicos hispanohablantes e internacionales."
+
+[science_podcast_eyebrow]
+other = "Pódcast en español"
+
+[science_podcast_description]
+other = "Cada descubrimiento tiene una historia. Cada avance científico nace de la curiosidad, los errores, la perseverancia y las preguntas que impulsan el conocimiento. <em>Relatos y Ciencia</em> combina narrativa y ciencia para explorar las ideas, las personas, los descubrimientos y las innovaciones que nos ayudan a comprender el mundo."
+
+[science_speaking_eyebrow]
+other = "Conferencias"
+
+[science_talks_title]
+other = "Charlas y videos"
+
+[science_talks_description]
+other = "Charlas invitadas y presentaciones sobre inteligencia artificial, imágenes médicas, investigación y la experiencia de construir una carrera científica."
+
+[science_media_eyebrow]
+other = "En los medios"
+
+[science_media_title]
+other = "Entrevistas y cobertura de prensa"
+
+[science_media_description]
+other = "Conversaciones y noticias sobre IA médica, investigación de heridas crónicas, lepra, tumores raros y las personas detrás del trabajo científico."
+
+[science_contact_eyebrow]
+other = "Invitaciones y colaboraciones"
+
+[science_contact_title]
+other = "Comuniquemos la ciencia"
+
+[science_contact_description]
+other = "Para charlas, entrevistas, pódcast y colaboraciones de comunicación científica:"
+
+[talks_view_content]
+other = "Ver contenido"
+
+[about_intro]
+other = "Formación académica, experiencia profesional, docencia, servicio y distinciones."
+
+[about_education]
+other = "Formación académica"
+
+[degree_energy]
+other = "Ingeniería en Energía"
+
+[degree_bachelor]
+other = "Pregrado"
+
+[degree_electronic]
+other = "Ingeniería Electrónica"
+
+[degree_master]
+other = "Maestría"
+
+[degree_engineering]
+other = "Ingeniería"
+
+[degree_doctorate]
+other = "Doctorado"
+
+[present]
+other = "Actualidad"
+
+[kaust_full]
+other = "Universidad de Ciencia y Tecnología Rey Abdalá (KAUST)"
+
+[creatis_lab]
+other = "Laboratorio CREATIS"
+
+[insa_lyon]
+other = "INSA Lyon y Universidad Claude Bernard Lyon 1."
+
+[ihu_institute]
+other = "Instituto de Cirugía Guiada por Imágenes"
+
+[tesa_lab]
+other = "Laboratorio TéSA"
+
+[irit_lab]
+other = "Laboratorio IRIT"
+
+[kfsc_kaust]
+other = "Colegio de Seguridad Rey Fahd / Academia KAUST."
+
+[wicv_name]
+other = "Mujeres en Visión por Computador (WiCV)"
+
+[wicv_workshop]
+other = "taller Mujeres en Visión por Computador (WiCV)"
+
+[rising_stars_name]
+other = "Simposio KAUST de Estrellas Emergentes en IA"
+
+[soccernet_name]
+other = "Conjuntos de datos y desafíos de SoccerNet"
+
+[lxcv_name]
+other = "LatinX en Visión por Computador (LXCV)"
+
+[lxcv_workshop]
+other = "taller LatinX en Visión por Computador (LXCV)"
+
+[stsiva_name]
+other = "XXII Simposio de Tratamiento de Señales, Imágenes y Visión Artificial (STSIVA)"
+
+[sfr_challenge]
+other = "Desafío de Datos de Inteligencia Artificial SFR 2021"
+
+[surgical_summer_school]
+other = "Escuela de Verano en Ciencia de Datos Quirúrgicos"
+
+[strasbourg_university]
+other = "Universidad de Estrasburgo"
+
+[bayer_innovators]
+other = "Jóvenes Innovadores Comunitarios de Bayer"
+
+[santander_government]
+other = "Gobernación de Santander"
+
+[guanajuato_university]
+other = "Universidad de Guanajuato"
+
+[paris]
+other = "París"
+
+[canada]
+other = "Canadá"
+
+[about_experience]
+other = "Experiencia"
+
+[about_professional_experience]
+other = "Experiencia profesional"
+
+[role_postdoctoral]
+other = "Investigadora posdoctoral"
+
+[genai_center]
+other = "Centro de Excelencia en IA Generativa."
+
+[ivul_lab]
+other = "Laboratorio de Comprensión de Imágenes y Video (IVUL). Investigador principal: Prof. Bernard Ghanem."
+
+[role_research_engineer]
+other = "Ingeniera de investigación"
+
+[role_researcher]
+other = "Investigadora (maestría y doctorado)"
+
+[hdsp_group]
+other = "Grupo de Investigación en Procesamiento de Señales de Alta Dimensión (HDSP), Colombia."
+
+[role_young_researcher]
+other = "Joven investigadora"
+
+[about_research_visits]
+other = "Estancias de investigación"
+
+[role_research_internship]
+other = "Pasantía de investigación"
+
+[creatis_center]
+other = "Centro de Investigación en Adquisición y Procesamiento de Imágenes para la Salud"
+
+[edu4sds_title]
+other = "edu4SDS: 1.ª Escuela de Verano en Ciencia de Datos Quirúrgicos"
+
+[tesa_description]
+other = "Laboratorio cooperativo de investigación en telecomunicaciones para el espacio y la aeronáutica"
+
+[role_research_collaborator]
+other = "Colaboradora de investigación"
+
+[irit_description]
+other = "Instituto de Investigación en Informática de Toulouse"
+
+[summer_program_title]
+other = "Programa Internacional de Verano de Investigación"
+
+[summer_program_description]
+other = "Programa de ocho semanas ofrecido por la Dirección de Relaciones Internacionales de la Universidad de Guanajuato, México."
+
+[about_teaching]
+other = "Docencia"
+
+[role_teaching_assistant]
+other = "Asistente docente"
+
+[teaching_description]
+other = "Curso de aprendizaje profundo para estudiantes de maestría en Inteligencia Artificial."
+
+[about_academic_service]
+other = "Servicio académico"
+
+[role_general_chair]
+other = "Presidenta general"
+
+[role_organizer]
+other = "Organizadora"
+
+[role_communications_chair]
+other = "Coordinadora de comunicaciones"
+
+[role_outreach_chair]
+other = "Coordinadora de divulgación"
+
+[role_publicity_chair]
+other = "Coordinadora de difusión"
+
+[workshop]
+other = "taller"
+
+[about_awards]
+other = "Distinciones y premios"
+
+[award_thesis]
+other = "Tesis doctoral con máximos honores (tesis laureada)"
+
+[award_thesis_title]
+other = "Diseño de algoritmos de aprendizaje profundo para imágenes médicas en tareas de diagnóstico asistido por computador."
+
+[award_third_place]
+other = "Tercer lugar"
+
+[award_challenge]
+other = "Aumento de datos con IA al servicio de los tumores raros"
+
+[award_scholarship_recipient]
+other = "Beca otorgada"
+
+[award_second_place]
+other = "Segundo lugar"
+
+[award_project_prefix]
+other = "Proyecto premiado:"
+
+[award_cocoa_project]
+other = "Espectroscopia, la nueva era del cacao"
+
+[award_national_scholarship]
+other = "Beca nacional para estudios de maestría"
+
+[award_by_minciencias]
+other = "otorgada por MinCiencias, Colombia."
+
+[award_research_medal]
+other = "Medalla de reconocimiento especial a la excelencia investigativa"
+
+[award_academic_excellence]
+other = "Excelencia académica en investigación"
+
+[award_first_place]
+other = "Primer lugar"
+
+[award_energy_prize]
+other = "Premio Nacional de Eficiencia Energética, proyecto Colombia Energética 2050."
+
+[award_summer_research]
+other = "Verano de la Investigación Científica"
+
+[saudi_arabia]
+other = "Arabia Saudita"
+
+[united_states]
+other = "Estados Unidos"
+
+[france]
+other = "Francia"
+
+[mexico]
+other = "México"
