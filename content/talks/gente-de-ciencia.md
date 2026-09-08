@@ -3,6 +3,7 @@ title: "Programa 01 Karen Sánchez | Gente de Ciencia"
 date: 2022-11-18
 youtube_id: "WDyakljy6FQ"
 media_label: "Radio interview · In Spanish"
+communication_group: "media"
 ---
 
 <iframe width="560" height="315"

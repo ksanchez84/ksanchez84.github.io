@@ -1,0 +1,22 @@
+{{ $destination := .RelPermalink }}
+{{ with .Params.external_url }}
+  {{ $destination = . }}
+{{ end }}
+
+<article class="col-sm-6 col-md-3 media-card">
+  <a href="{{ $destination }}" {{ with .Params.external_url }}target="_blank" rel="noopener noreferrer"{{ end }}>
+    {{ if .Params.youtube_id }}
+      <img src="https://img.youtube.com/vi/{{ .Params.youtube_id }}/hqdefault.jpg"
+           class="media-card-image"
+           alt="Thumbnail for {{ .Title }}">
+    {{ else if .Params.thumbnail }}
+      <img src="{{ .Params.thumbnail }}"
+           class="media-card-image"
+           alt="Thumbnail for {{ .Title }}">
+    {{ end }}
+  </a>
+  {{ with .Params.media_label }}<p class="media-card-label">{{ . }}</p>{{ end }}
+  <p class="media-card-title">
+    <a href="{{ $destination }}" {{ with .Params.external_url }}target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Title }}</a>
+  </p>
+</article>

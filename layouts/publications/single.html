@@ -1,0 +1,50 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container profile-page publications-page">
+    <header class="profile-page-intro">
+      <p class="page-kicker">Research record</p>
+      <h1>{{ .Title }}</h1>
+      <p class="page-lead">Peer-reviewed papers, conference publications, datasets, and preprints across medical AI, computer vision, computational imaging, and AI for science.</p>
+      <p class="publication-source-note">
+        This list follows my public Google Scholar record. For citation counts and the most recent updates,
+        <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">visit Google Scholar</a>.
+      </p>
+    </header>
+
+    <div class="publication-list">
+      {{ with .Site.Data.publications }}
+        {{ $lastYear := 0 }}
+        {{ range sort . "year" "desc" }}
+          {{ $publication := . }}
+          {{ if ne .year $lastYear }}
+            <h2 class="publication-year">{{ .year }}</h2>
+            {{ $lastYear = .year }}
+          {{ end }}
+          <article class="publication-item">
+            <div class="publication-main">
+              <h3>
+                {{ if .url }}
+                  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+                {{ else }}
+                  {{ .title }}
+                {{ end }}
+              </h3>
+              <p class="publication-authors">{{ replaceRE "K (Sanchez|Sánchez)" "<strong>K $1</strong>" .authors | safeHTML }}</p>
+              <p class="publication-venue">{{ .venue }}</p>
+            </div>
+            {{ with .resources }}
+              <div class="publication-links" aria-label="Resources for {{ $publication.title }}">
+                {{ range . }}
+                  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+                {{ end }}
+              </div>
+            {{ end }}
+          </article>
+        {{ end }}
+      {{ else }}
+        <p class="publication-source-note">The publication list is being updated. Please visit Google Scholar for the current record.</p>
+      {{ end }}
+    </div>
+  </div>
+</main>
+{{ end }}

@@ -1,0 +1,66 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container profile-page science-communication-page">
+    <header class="profile-page-intro">
+      <p class="page-kicker">Stories, talks &amp; media</p>
+      <h1>{{ .Title }}</h1>
+      <p class="page-lead">I communicate science through narrative, public talks, interviews, and media—connecting research with Spanish-speaking and international audiences.</p>
+    </header>
+
+    <section class="communication-section podcast-section" aria-labelledby="podcast-title">
+      <div class="communication-heading">
+        <p class="section-eyebrow">Podcast in Spanish</p>
+        <h2 id="podcast-title">Relatos y Ciencia</h2>
+        <p>Every discovery has a story. Every scientific advance grows from curiosity, mistakes, perseverance, and the questions that drive knowledge. <em>Relatos y Ciencia</em> combines narrative and science to explore the ideas, people, discoveries, and innovations that help us understand the world.</p>
+        <p class="podcast-link"><a href="https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT" target="_blank" rel="noopener noreferrer">Listen on Spotify <span aria-hidden="true">&rarr;</span></a></p>
+      </div>
+      <iframe
+        class="spotify-embed"
+        data-testid="embed-iframe"
+        title="Relatos y Ciencia on Spotify"
+        src="https://open.spotify.com/embed/show/033OKtKy1n24FbJPPgmzjT?utm_source=generator&amp;si=918d9bb1e7cc4247"
+        width="100%"
+        height="352"
+        frameborder="0"
+        allowfullscreen
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy">
+      </iframe>
+    </section>
+
+    <section class="communication-section" aria-labelledby="talks-title">
+      <div class="communication-heading">
+        <p class="section-eyebrow">Speaking</p>
+        <h2 id="talks-title">Talks &amp; videos</h2>
+        <p>Invited talks and presentations about artificial intelligence, medical imaging, research, and the experience of building a scientific career.</p>
+      </div>
+      <div class="row media-grid communication-grid">
+        {{ range where (where .Site.RegularPages "Section" "talks") ".Params.communication_group" "talks" }}
+          {{ partial "communication-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    <section class="communication-section" aria-labelledby="media-title">
+      <div class="communication-heading">
+        <p class="section-eyebrow">In the media</p>
+        <h2 id="media-title">Interviews &amp; press coverage</h2>
+        <p>Conversations and stories about medical AI, chronic wound research, leprosy, and the people behind scientific work.</p>
+      </div>
+      <div class="row media-grid communication-grid">
+        {{ range where (where .Site.RegularPages "Section" "talks") ".Params.communication_group" "media" }}
+          {{ partial "communication-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    <aside class="speaking-contact">
+      <div>
+        <p class="section-eyebrow">Invitations &amp; collaborations</p>
+        <h2>Let’s communicate science</h2>
+      </div>
+      <p>For talks, interviews, podcasts, and science communication collaborations:<br><strong>karen [dot] sanchez [at] kaust [dot] edu [dot] sa</strong></p>
+    </aside>
+  </div>
+</main>
+{{ end }}

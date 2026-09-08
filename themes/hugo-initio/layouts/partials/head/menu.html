@@ -30,7 +30,7 @@
                     </ul>
                 </li>
                 {{ else }}
-                <li>
+                <li{{ if or ($.IsMenuCurrent "main" .) (and $.IsHome (eq .URL "/")) }} class="active"{{ end }}>
                     <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
                 </li>
                 {{ end }}

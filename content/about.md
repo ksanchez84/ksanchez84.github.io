@@ -1,8 +1,7 @@
 +++
 menu = "main"
-title = "Resume"
+title = "About & CV"
 type = "about"
-weight = 10
+weight = 50
+aliases = ["/resume/"]
 +++
-
-

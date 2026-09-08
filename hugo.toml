@@ -26,11 +26,11 @@ theme = "hugo-initio"
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
-    name = "home"
+    name = "Home"
     url = "/"
     weight = 1
 
@@ -88,7 +88,7 @@ theme = "hugo-initio"
 	title = "email"
 	url = "mailto:karen.sanchez@kaust.edu.sa"
     icon = "fas fa-envelope-square"
-    header=true
+    header=false
     footer = false
     sharethis = true
     network = "email"
