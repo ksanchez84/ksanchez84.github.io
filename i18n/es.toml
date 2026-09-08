@@ -47,7 +47,7 @@ other = "Pódcast"
 other = "Pódcast en español"
 
 [podcast_home_description]
-other = "Cada descubrimiento tiene una historia. Cada avance científico es el resultado de la curiosidad, los errores, la perseverancia y las grandes preguntas que impulsan el conocimiento. En Relatos y Ciencia combinamos narrativa y ciencia para explorar ideas, descubrimientos, personas e innovaciones que nos ayudan a comprender mejor el mundo. Cada episodio es una invitación a despertar la curiosidad, cuestionar lo que creemos saber y descubrir la ciencia detrás de cada historia."
+other = "Historias detrás de la ciencia y los descubrimientos, contadas en español."
 
 [listen_on_spotify]
 other = "Escuchar en Spotify"
@@ -92,7 +92,7 @@ other = "Trayectoria investigadora"
 other = "Artículos revisados por pares, publicaciones en conferencias, conjuntos de datos y prepublicaciones sobre IA médica, visión por computador, imágenes computacionales e IA para la ciencia."
 
 [publications_source_prefix]
-other = "Esta lista sigue mi perfil público de Google Scholar. Para consultar las citas y las actualizaciones más recientes,"
+other = "Para consultar las actualizaciones más recientes,"
 
 [publications_source_link]
 other = "visita Google Scholar"

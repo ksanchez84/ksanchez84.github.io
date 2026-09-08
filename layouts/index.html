@@ -23,6 +23,9 @@
                          <span>{{.Title}}</span>
                        </h2>
                      {{ if eq $stype "service" }}
+                       {{ with .Content }}
+                         <div class="col-xs-12">{{ . }}</div>
+                       {{ end }}
                        {{ partial "home/services.html" . }}
 
                      {{ else if eq $stype "recentwork" }}
