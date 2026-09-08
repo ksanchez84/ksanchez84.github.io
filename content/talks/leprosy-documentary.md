@@ -3,7 +3,6 @@ title: "La enfermedad del exilio: Una historia de la lepra en Colombia"
 date: 2026-08-02
 youtube_id: "EqFhGJEB9V4"
 media_label: "Audio Podcast"
-communication_group: "media"
 ---
 
 <iframe width="560" height="315"

@@ -33,7 +33,8 @@
   <h3>Featured Talks, Videos & Media</h3>
 
   <div class="row media-grid">
-    {{ $talks := first 8 (where .Site.RegularPages "Section" "talks") }}
+    {{ $talkPages := where .Site.RegularPages "Section" "talks" }}
+    {{ $talks := first 8 (where $talkPages ".Params.home_featured" "ne" false) }}
 
     {{ range $talks }}
       {{ $destination := .RelPermalink }}
