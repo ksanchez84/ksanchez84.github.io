@@ -61,12 +61,12 @@ weight = 20
   </article>
 
   <article class="research-project">
-    <img src="/images/privacy.png" alt="Privacy-aware optical system for scene description">
+    <img src="/images/agents.png" alt="Overview of the multimodal generative agent safety evaluation framework">
     <div>
-      <p class="project-label">Privacy-aware computational imaging</p>
-      <h3>Learning to Describe Scenes via Privacy-Aware Designed Optical Lens</h3>
-      <p>A jointly designed optical and learning system that supports scene description while obscuring conventional visual appearance before an image is captured.</p>
-      <p class="project-links"><a href="https://ieeexplore.ieee.org/document/10613002" target="_blank" rel="noopener noreferrer">Paper</a></p>
+      <p class="project-label">Multimodal AI safety</p>
+      <h3>Multimodal Safety Evaluation in Generative Agent Social Simulations</h3>
+      <p>A reproducible simulation framework for evaluating how generative agents reason about safety, coherence, and trust across text and visual information in social environments.</p>
+      <p class="project-links"><a href="https://arxiv.org/abs/2510.07709" target="_blank" rel="noopener noreferrer">Paper</a><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=k7sOz3kAAAAJ&amp;sortby=pubdate&amp;citation_for_view=k7sOz3kAAAAJ:qUcmZB5y_30C" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
     </div>
   </article>
 </section>
