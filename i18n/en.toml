@@ -381,3 +381,14 @@ other = "France"
 
 [mexico]
 other = "Mexico"
+
+[view_all_news]
+other = "View all news"
+[news_category_podcast]
+other = "Podcast"
+[news_category_service]
+other = "Service"
+[news_category_paper]
+other = "Paper"
+[news_category_talk]
+other = "Talk"

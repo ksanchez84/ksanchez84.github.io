@@ -1852,3 +1852,60 @@ header .social-buttons i {
         margin-left:auto;
     }
 }
+
+/* Compact news rows shared by Home and the news archive. */
+.news-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.news-row {
+    display: grid;
+    grid-template-columns: 96px 90px minmax(0, 1fr);
+    align-items: baseline;
+    gap: 16px;
+    padding: 13px 0;
+    border-bottom: 1px solid #e2e0e8;
+}
+.home-news .news-row {
+    padding: 7px 0;
+    border-bottom: 0;
+}
+.news-date,
+.news-category {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+}
+.news-date {
+    color: #666;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+.news-category {
+    color: #6b5fb5;
+}
+.news-text {
+    min-width: 0;
+    color: #555;
+    font-size: 16px;
+    line-height: 1.65;
+    overflow-wrap: break-word;
+}
+.news-text p {
+    margin: 0;
+}
+.news-archive-link {
+    margin: 18px 0 0;
+    font-size: 14px;
+}
+@media (max-width: 600px) {
+    .news-row {
+        grid-template-columns: 96px minmax(0, 1fr);
+        gap: 5px 14px;
+    }
+    .news-text {
+        grid-column: 1 / -1;
+    }
+}

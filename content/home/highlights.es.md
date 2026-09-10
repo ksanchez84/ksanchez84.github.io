@@ -1,12 +1,60 @@
 +++
 type = "highlights"
 title = "Noticias"
+
+[[news]]
+date = "2026-08-01"
+date_label = "AGO 2026"
+category = "podcast"
+featured = true
+text = "Lancé [*Relatos y Ciencia*](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), mi pódcast de relatos sobre ciencia en español."
+
+[[news]]
+date = "2026-06-01"
+date_label = "JUN 2026"
+category = "service"
+featured = true
+text = "Fui nombrada presidenta general del [taller Mujeres en Visión por Computador (WiCV) en CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."
+
+[[news]]
+date = "2026-05-01"
+date_label = "MAY 2026"
+category = "paper"
+featured = true
+text = "Nuestro trabajo sobre seguridad multimodal fue aceptado en ACL 2026."
+
+[[news]]
+date = "2026-03-01"
+date_label = "MAR 2026"
+category = "paper"
+featured = true
+text = "CURE fue aceptado como presentación oral en CVPR 2026."
+
+[[news]]
+date = "2026-02-01"
+date_label = "FEB 2026"
+category = "service"
+featured = true
+text = "Coorganicé el [Simposio KAUST de Estrellas Emergentes en IA 2026](https://www.kaust.edu.sa/events/rsais26/)."
+
+[[news]]
+date = "2025-06-01"
+date_label = "JUN 2025"
+category = "service"
+featured = false
+text = "Coorganicé el [taller Mujeres en Visión por Computador (WiCV) en CVPR 2025](https://sites.google.com/view/wicv-cvpr-2025/home), realizado en Nashville, Estados Unidos."
+
+[[news]]
+date = "2025-04-01"
+date_label = "ABR 2025"
+category = "talk"
+featured = true
+text = "Fui conferencista principal invitada en la Semana de la Innovación de la [Fundación Santa Fe de Bogotá](https://fundacionsantafedebogota.com/)."
+
+[[news]]
+date = "2025-04-01"
+date_label = "ABR 2025"
+category = "service"
+featured = false
+text = "Coorganicé el [Simposio KAUST de Estrellas Emergentes en IA 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) en KAUST, Arabia Saudita."
 +++
-- [Ago. 2026] Lancé [*Relatos y Ciencia*](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), mi pódcast en español que explora las historias detrás de la ciencia y los descubrimientos.
-- [Jun. 2026] Fui nombrada presidenta general del [taller Mujeres en Visión por Computador (WiCV) en CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home), realizado en Denver, Estados Unidos.
-- [May. 2026] Nuestro artículo sobre seguridad multimodal fue aceptado en ACL 2026, San Diego, Estados Unidos.
-- [Mar. 2026] Nuestro artículo CURE fue aceptado como presentación oral en CVPR 2026, Denver, Estados Unidos.
-- [Feb. 2026] Coorganicé el [Simposio KAUST de Estrellas Emergentes en IA 2026](https://www.kaust.edu.sa/events/rsais26/) en KAUST, Arabia Saudita.
-- [Jun. 2025] Coorganicé el [taller Mujeres en Visión por Computador (WiCV) en CVPR 2025](https://sites.google.com/view/wicv-cvpr-2025/home), realizado en Nashville, Estados Unidos.
-- [Abr. 2025] Fui conferencista principal en la Semana de la Innovación 2025 organizada por la [Fundación Santa Fe de Bogotá](https://fundacionsantafedebogota.com/), Colombia.
-- [Abr. 2025] Coorganicé el [Simposio KAUST de Estrellas Emergentes en IA 2025](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) en KAUST, Arabia Saudita.

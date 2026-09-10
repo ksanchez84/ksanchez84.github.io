@@ -1,13 +1,12 @@
 {{ range where .Site.Pages "Type" "highlights" }}
-<div class="row section topspace">
+<div class="row section topspace home-news">
     
     <div class="col-md-12">
         <h2 class="section-title">
             <span>{{ .Title }}</span>
         </h2>
-        <div class="">
-            {{ .Content }}
-        </div>
+        {{ partial "news-list.html" (dict "items" (first 6 (where (sort (.Params.news | default slice) "date" "desc") "featured" true))) }}
+        <p class="news-archive-link"><a href="{{ .RelPermalink }}">{{ i18n "view_all_news" }} <span aria-hidden="true">&rarr;</span></a></p>
     </div>
 </div> <!-- / section -->
 {{ end }}

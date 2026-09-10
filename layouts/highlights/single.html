@@ -1,0 +1,10 @@
+{{ define "main" }}
+<main id="main">
+  <div class="container profile-page news-page">
+    <div class="profile-page-intro">
+      <h1>{{ .Title }}</h1>
+    </div>
+    {{ partial "news-list.html" (dict "items" (sort (.Params.news | default slice) "date" "desc")) }}
+  </div>
+</main>
+{{ end }}
