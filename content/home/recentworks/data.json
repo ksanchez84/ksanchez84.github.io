@@ -21,69 +21,6 @@
         ]
     },
     {
-        "id": 1,
-        "name": "Multimodal Safety Evaluation in Generative Agent Social Simulations",
-        "journal": "ACL, 2026",
-        "image": "images/agents.png",
-        "url": "#",
-        "items": [
-            {
-                "name": "Paper",
-                "url": "https://arxiv.org/abs/2510.07709"
-            },
-            {
-                "name": "Code",
-                "url": "#"
-            },
-            {
-                "name": "BibTeX",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "CO2Wounds-V2: Extended Chronic Wounds Dataset From Leprosy Patients",
-        "journal": "IEEE ICIP, 2024",
-        "image": "images/dataset.png",
-        "url": "#",
-        "items": [
-            {
-                "name": "Paper",
-                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10647641"
-            },
-            {
-                "name": "Code",
-                "url": "https://github.com/simatec-uis/CO2Wounds-V2"
-            },
-            {
-                "name": "Dataset",
-                "url": "https://ieee-dataport.org/open-access/co2wounds-v2-extended-chronic-wounds-dataset-leprosy-patients-segmentation-and"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Learning to Describe Scenes via Privacy-aware Designed Optical Lens",
-        "journal": "IEEE Trans. on Computational Imaging, 2024",
-        "image": "images/privacy.png",
-        "url": "#",
-        "items": [
-            {
-                "name": "Paper",
-                "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10613002"
-            },
-            {
-                "name": "Code",
-                "url": "#"
-            },
-            {
-                "name": "BibTeX",
-                "url": "#"
-            }
-        ]
-    },
-    {
         "id": 4,
         "name": "Automated chronic wounds medical assessment and tracking framework based on deep learning",
         "journal": "Computers in Biology and Medicine, 2023",
