@@ -10,8 +10,8 @@ featured = true
 text = "Lancé [*Relatos y Ciencia*](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), mi pódcast de relatos sobre ciencia en español."
 
 [[news]]
-date = "2026-06-01"
-date_label = "JUN 2026"
+date = "2026-01-01"
+date_label = "ENE 2026"
 category = "service"
 featured = true
 text = "Fui nombrada presidenta general del [taller Mujeres en Visión por Computador (WiCV) en CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."

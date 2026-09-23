@@ -10,11 +10,11 @@ featured = true
 text = "Launched [*Relatos y Ciencia*](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), my Spanish-language science storytelling podcast."
 
 [[news]]
-date = "2026-06-01"
-date_label = "JUN 2026"
+date = "2026-01-01"
+date_label = "JAN 2026"
 category = "service"
 featured = true
-text = "Appointed General Chair of the [Women in Computer Vision (WiCV) Workshop at CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."
+text = "I will be a General Chair of the [Women in Computer Vision (WiCV) Workshop at CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."
 
 [[news]]
 date = "2026-05-01"

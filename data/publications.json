@@ -1,6 +1,14 @@
 [
   {
     "year": 2026,
+    "title": "Last Translation Benchmark",
+    "authors": "V Zouhar et al., including K Sanchez",
+    "venue": "Preprint · arXiv:2609.04173",
+    "url": "https://arxiv.org/abs/2609.04173",
+    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2609.04173"}, {"name": "Code", "url": "https://github.com/zouharvi/last-translation-benchmark"}, {"name": "Project", "url": "https://last-translation-benchmark.vilda.net/"}]
+  },
+  {
+    "year": 2026,
     "title": "LUTSeg: A Longitudinal Multi-Expert Dataset for Ulcer Tissue Segmentation",
     "authors": "K Sanchez, C Hinojosa, AA Ávila, AC Riano-Rojas, DH Romero, JC Páez, M Llinás, B Ghanem",
     "venue": "ISIC at MICCAI 2026 · Preprint",
@@ -21,7 +29,7 @@
     "authors": "A Eldesokey, M Ramazanova, A Sait, A Khangeldin, K Sanchez, T Zhang, B Ghanem",
     "venue": "Preprint · arXiv:2605.13223",
     "url": "https://arxiv.org/abs/2605.13223",
-    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2605.13223"}, {"name": "Project", "url": "https://abdo-eldesokey.github.io/skill-aligned-eval/"}]
+    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2605.13223"}, {"name": "Code", "url": "https://github.com/abdo-eldesokey/skill-aligned-eval"}, {"name": "Project", "url": "https://abdo-eldesokey.github.io/skill-aligned-eval/"}]
   },
   {
     "year": 2026,
@@ -37,7 +45,7 @@
     "authors": "AAV Gonzalez, C Hinojosa, K Sanchez, HB Hamid, D Kim, B Ghanem",
     "venue": "64th Annual Meeting of the Association for Computational Linguistics (ACL)",
     "url": "https://arxiv.org/abs/2510.07709",
-    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2510.07709"}]
+    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2510.07709"}, {"name": "Code", "url": "https://github.com/AdonaiVera/X-CASE"}, {"name": "Project", "url": "https://adonaivera.github.io/X-CASE/"}]
   },
   {
     "year": 2025,
@@ -53,7 +61,7 @@
     "authors": "A Cioppa et al., including K Sanchez",
     "venue": "Preprint · arXiv:2409.10587",
     "url": "https://arxiv.org/abs/2409.10587",
-    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2409.10587"}, {"name": "SoccerNet", "url": "https://www.soccer-net.org/"}]
+    "resources": [{"name": "Paper", "url": "https://arxiv.org/abs/2409.10587"}, {"name": "Code", "url": "https://github.com/SoccerNet"}, {"name": "SoccerNet", "url": "https://www.soccer-net.org/"}]
   },
   {
     "year": 2024,
@@ -85,7 +93,7 @@
     "authors": "B Monroy, K Sanchez, P Arguello, J Estupiñán, J Bacca, CV Correa, et al.",
     "venue": "Computers in Biology and Medicine 165, 107335",
     "url": "https://www.sciencedirect.com/science/article/pii/S0010482523008004",
-    "resources": [{"name": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S0010482523008004"}]
+    "resources": [{"name": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S0010482523008004"}, {"name": "Code", "url": "https://github.com/simatec-uis/CO2Dnet"}]
   },
   {
     "year": 2023,
@@ -115,13 +123,17 @@
     "year": 2022,
     "title": "Hierarchical Compressed Subspace Clustering of Infrared Single-Pixel Measurements",
     "authors": "M Marquez, J Monsalve, K Arias, K Sanchez, C Hinojosa, H Arguello",
-    "venue": "Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)"
+    "venue": "Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)",
+    "url": "https://doi.org/10.1109/WHISPERS56178.2022.9955096",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/WHISPERS56178.2022.9955096"}]
   },
   {
     "year": 2022,
     "title": "Cocosvi: Single Snapshot Compressive Spectral Video via Covariance Matrix Estimation",
     "authors": "J Monsalve, M Marquez, K Sanchez, C Hinojosa, I Esnaola, H Arguello",
-    "venue": "Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)"
+    "venue": "Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)",
+    "url": "https://doi.org/10.1109/WHISPERS56178.2022.9955136",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/WHISPERS56178.2022.9955136"}]
   },
   {
     "year": 2021,
@@ -143,66 +155,88 @@
     "year": 2021,
     "title": "Classification of Cocoa Beans Based on Their Level of Fermentation Using Spectral Information",
     "authors": "K Sánchez, J Bacca, L Arévalo-Sánchez, H Arguello, S Castillo",
-    "venue": "TecnoLógicas 24(50), 172–188"
+    "venue": "TecnoLógicas 24(50), 172–188",
+    "url": "https://doi.org/10.22430/22565337.1654",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.22430/22565337.1654"}]
   },
   {
     "year": 2021,
     "title": "Two-Step Deep Learning Framework for Chronic Wounds Detection and Segmentation: A Case Study in Colombia",
     "authors": "B Monroy, J Bacca, K Sanchez, H Arguello, S Castillo",
-    "venue": "XXIII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)"
+    "venue": "XXIII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)",
+    "url": "https://doi.org/10.1109/STSIVA53688.2021.9592008",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/STSIVA53688.2021.9592008"}]
   },
   {
     "year": 2021,
     "title": "Subspace-Based Domain Adaptation Using Similarity Constraints for Pneumonia Diagnosis Within a Small Chest X-Ray Image Dataset",
     "authors": "K Sanchez, C Hinojosa, H Arguello, S Freiss, N Sans, D Kouamé, et al.",
-    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 1232–1235"
+    "venue": "IEEE International Symposium on Biomedical Imaging (ISBI), 1232–1235",
+    "url": "https://doi.org/10.1109/ISBI48211.2021.9434173",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/ISBI48211.2021.9434173"}]
   },
   {
     "year": 2021,
     "title": "Compressed-Domain Classification Algorithm for Spectral Imaging Based on Designed Single-Pixel Camera Codification",
     "authors": "K Sanchez, C Hinojosa, H Garcia, H Arguello, S Castillo",
-    "venue": "Computational Optical Sensing and Imaging, CTu2F.5"
+    "venue": "Computational Optical Sensing and Imaging, CTu2F.5",
+    "url": "https://doi.org/10.1364/COSI.2021.CTu2F.5",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1364/COSI.2021.CTu2F.5"}]
   },
   {
     "year": 2020,
     "title": "Transfer Learning with Convolutional Neural Network for Gastrointestinal Diseases Detection Using Endoscopic Images",
     "authors": "JP Escobar, N Gomez, K Sanchez, H Arguello",
-    "venue": "IEEE Colombian Conference on Applications of Computational Intelligence"
+    "venue": "IEEE Colombian Conference on Applications of Computational Intelligence",
+    "url": "https://doi.org/10.1109/COLCACI50549.2020.9247847",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/COLCACI50549.2020.9247847"}]
   },
   {
     "year": 2019,
     "title": "Supervised Spatio-Spectral Classification of Fused Images Using Superpixels",
     "authors": "K Sanchez, C Hinojosa, H Arguello",
-    "venue": "Applied Optics 58(7), B9–B18"
+    "venue": "Applied Optics 58(7), B9–B18",
+    "url": "https://doi.org/10.1364/AO.58.0000B9",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1364/AO.58.0000B9"}]
   },
   {
     "year": 2019,
     "title": "Non-Destructive Method for Classification of Cocoa Beans from Spectral Information",
     "authors": "NA Gomez, K Sanchez, H Arguello",
-    "venue": "XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)"
+    "venue": "XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)",
+    "url": "https://doi.org/10.1109/STSIVA.2019.8730257",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/STSIVA.2019.8730257"}]
   },
   {
     "year": 2019,
     "title": "Sparse Subspace Clustering for Hyperspectral Images with Missing Pixels",
     "authors": "J Bacca, K Sanchez, H Arguello",
-    "venue": "XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)"
+    "venue": "XXII Symposium on Image, Signal Processing and Artificial Vision (STSIVA)",
+    "url": "https://doi.org/10.1109/STSIVA.2019.8730242",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/STSIVA.2019.8730242"}]
   },
   {
     "year": 2018,
     "title": "Multi-Resolution Coded Apertures Based on Side Information for Single-Pixel Spectral Reconstruction",
     "authors": "H Garcia, CV Correa, K Sánchez, E Vargas, H Arguello",
-    "venue": "26th European Signal Processing Conference (EUSIPCO), 2215–2219"
+    "venue": "26th European Signal Processing Conference (EUSIPCO), 2215–2219",
+    "url": "https://doi.org/10.23919/EUSIPCO.2018.8553602",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.23919/EUSIPCO.2018.8553602"}]
   },
   {
     "year": 2018,
     "title": "Supervised Classification of Hyperspectral Images Using Side Information",
     "authors": "K Sanchez, C Hinojosa, H Arguello",
-    "venue": "Propagation Through and Characterization of Atmospheric and Oceanic Phenomena"
+    "venue": "Propagation Through and Characterization of Atmospheric and Oceanic Phenomena",
+    "url": "https://doi.org/10.1364/3D.2018.JW5E.5",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1364/3D.2018.JW5E.5"}]
   },
   {
     "year": 2018,
     "title": "Determination of the Production Profile of Incinerable Waste for the City of Bucaramanga and Its Energy Capacity",
     "authors": "MA Gómez-Martínez, K Sánchez, C Díaz, VJ Gutiérrez-Martínez, et al.",
-    "venue": "XXXI International Summer Meeting on Power and Industrial Applications"
+    "venue": "XXXI International Summer Meeting on Power and Industrial Applications",
+    "url": "https://doi.org/10.1109/RVPAI.2018.8469933",
+    "resources": [{"name": "Paper", "url": "https://doi.org/10.1109/RVPAI.2018.8469933"}]
   }
 ]
