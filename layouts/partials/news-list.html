@@ -1,7 +1,7 @@
 <ul class="news-list">
   {{ range .items }}
   <li class="news-row">
-    <time class="news-date" datetime="{{ substr .date 0 7 }}">{{ .date_label }}</time>
+    <time class="news-date" datetime="{{ substr .date 0 7 }}">[{{ time.Format "01/2006" .date }}]</time>
     <span class="news-category">{{ i18n (printf "news_category_%s" .category) }}</span>
     <div class="news-text">{{ .text | markdownify }}</div>
   </li>

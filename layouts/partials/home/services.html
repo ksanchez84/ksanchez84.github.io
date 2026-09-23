@@ -1,8 +1,8 @@
 <div class="col-xs-12">
   <div class="podcast-feature">
     <div class="podcast-intro">
-      <h3>Relatos y Ciencia</h3>
-      <p class="podcast-language">{{ i18n "podcast_language" }}</p>
+      <h3>{{ i18n "podcast_language" }}</h3>
+      <p class="podcast-language">Relatos y Ciencia</p>
       <p>{{ i18n "podcast_home_description" }}</p>
     </div>
 
@@ -23,7 +23,22 @@
       <a href="https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT"
          target="_blank"
          rel="noopener noreferrer">
-        {{ i18n "listen_on_spotify" }} <span aria-hidden="true">&rarr;</span>
+        <i class="fab fa-spotify" aria-hidden="true"></i>
+        {{ i18n "listen_on_spotify" }}
+      </a>
+      <span class="podcast-link-divider" aria-hidden="true">&middot;</span>
+      <a href="https://youtu.be/EqFhGJEB9V4"
+         target="_blank"
+         rel="noopener noreferrer">
+        <i class="fab fa-youtube" aria-hidden="true"></i>
+        {{ i18n "listen_on_youtube" }}
+      </a>
+      <span class="podcast-link-divider" aria-hidden="true">&middot;</span>
+      <a href="https://podcasts.apple.com/co/podcast/relatos-y-ciencia/id6797436401"
+         target="_blank"
+         rel="noopener noreferrer">
+        <i class="fab fa-apple" aria-hidden="true"></i>
+        {{ i18n "listen_on_apple_podcast" }}
       </a>
     </p>
   </div>

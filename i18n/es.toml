@@ -23,7 +23,7 @@ other = "IA para la ciencia • Visión por computador • IA médica"
 other = "Soy investigadora posdoctoral en el Centro de Excelencia en IA Generativa (CoE GenAI) de la Universidad de Ciencia y Tecnología Rey Abdalá (KAUST), Arabia Saudita. Mi investigación se centra en la IA para la ciencia, incluida la visión por computador, la comprensión de video, el aprendizaje automático con preservación de la privacidad y las aplicaciones en salud."
 
 [about_cv_button]
-other = "Acerca de mí y CV"
+other = "RESUME/CV"
 
 [footer_contact_title]
 other = "Contacto"
@@ -44,13 +44,19 @@ other = "Creado con"
 other = "Pódcast"
 
 [podcast_language]
-other = "Pódcast en español"
+other = "Mi pódcast en español"
 
 [podcast_home_description]
 other = "Historias detrás de la ciencia y los descubrimientos, contadas en español."
 
 [listen_on_spotify]
 other = "Escuchar en Spotify"
+
+[listen_on_youtube]
+other = "Escuchar en YouTube"
+
+[listen_on_apple_podcast]
+other = "Escuchar en Apple Podcast"
 
 [featured_media]
 other = "Charlas, videos y apariciones destacadas"

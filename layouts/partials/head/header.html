@@ -17,21 +17,24 @@
             <ul class="social-buttons">
                 {{ range where .Site.Params.social "header" true }}
                 <li>
-                    <a href="{{ .url }}" title="{{ .title }}">
+                    <a href="{{ .url }}" title="{{ .title }}" aria-label="{{ .title }}" target="_blank" rel="noopener noreferrer">
                         <i class="{{ .icon }}"></i>
                     </a>
                 </li>
                 {{ end }}
+                <li>
+                    <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl={{ .Lang }}&amp;oi=ao"
+                       title="Google Scholar"
+                       aria-label="Google Scholar"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        <i class="fas fa-graduation-cap"></i>
+                    </a>
+                </li>
             </ul>
             <div class="hero-buttons">
               <a href="{{ "about/" | relLangURL }}" class="btn-primary-custom">
                 <i class="fa fa-file-text-o"></i> {{ i18n "about_cv_button" }}
-              </a>
-
-               <a href="https://scholar.google.com/citations?user=k7sOz3kAAAAJ&amp;hl={{ .Lang }}&amp;oi=ao"
-               target="_blank"
-               class="btn-secondary-custom">
-                 <i class="fa fa-graduation-cap"></i> Google Scholar
               </a>
             </div>
         </div>

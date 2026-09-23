@@ -23,7 +23,7 @@ other = "AI for Science • Computer Vision • Medical AI"
 other = "I am a Postdoctoral Researcher at the Center of Excellence for Generative AI (CoE GenAI) at King Abdullah University of Science and Technology (KAUST), Saudi Arabia. My research focuses on AI for Science, including computer vision, video understanding, privacy-preserving machine learning, and healthcare applications."
 
 [about_cv_button]
-other = "About & CV"
+other = "RESUME/CV"
 
 [footer_contact_title]
 other = "Contact"
@@ -44,13 +44,19 @@ other = "Powered by"
 other = "Podcast"
 
 [podcast_language]
-other = "Podcast in Spanish"
+other = "My Podcast in Spanish"
 
 [podcast_home_description]
 other = "Stories behind science and discovery, told in Spanish."
 
 [listen_on_spotify]
 other = "Listen on Spotify"
+
+[listen_on_youtube]
+other = "Listen on YouTube"
+
+[listen_on_apple_podcast]
+other = "Listen on Apple Podcast"
 
 [featured_media]
 other = "Featured Talks, Videos & Media"

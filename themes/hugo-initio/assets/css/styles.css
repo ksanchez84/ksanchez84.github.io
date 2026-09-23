@@ -1257,7 +1257,7 @@ footer.entry-meta .meta-in {
    }
 }
 
-/* Centrar la lista de íconos en el header */
+/* Social links in the biography */
 .social-buttons {
   display: flex;
   justify-content: center;
@@ -1266,22 +1266,46 @@ footer.entry-meta .meta-in {
   margin: 10px 0;
 }
 
-/* Espaciado entre cada ícono */
 .social-buttons li {
   margin: 0 3px;
 }
 
-/* Tamaño de los íconos */
-header .social-buttons i {
-  font-size: 28px; /* Ajusta este valor para modificar el tamaño de los íconos */
+header .social-buttons a {
+  width: 46px;
+  height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #dedce8;
+  border-radius: 50%;
+  background: #fff;
+  color: #6b5fb5;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(37, 32, 66, .08);
+  transition: color .2s ease, background-color .2s ease, border-color .2s ease,
+              box-shadow .2s ease, transform .2s ease;
 }
 
-#head .social-buttons a[title="facebook"]  { color: #767779 !important; }
-#head .social-buttons a[title="twitter"]   { color: #767779 !important; }
-#head .social-buttons a[title="instagram"] { color: #767779 !important; }
-#head .social-buttons a[title="linkedin"]  { color: #767779 !important; }
-#head .social-buttons a[title="github"]    { color: #767779 !important; }  /* pick what you want */
-#head .social-buttons a[title="email"]     { color: #767779 !important; } 
+header .social-buttons a:hover,
+header .social-buttons a:focus-visible {
+  color: #fff;
+  background: #6b5fb5;
+  border-color: #6b5fb5;
+  box-shadow: 0 7px 18px rgba(107, 95, 181, .28);
+  outline: none;
+  transform: translateY(-2px);
+}
+
+header .social-buttons a:focus-visible {
+  box-shadow: 0 0 0 3px #fafafa, 0 0 0 5px rgba(107, 95, 181, .55);
+}
+
+header .social-buttons svg,
+header .social-buttons i {
+  width: 19px;
+  height: 19px;
+  font-size: 19px;
+}
 
 /* ---------- HERO ---------- */
 
@@ -1325,8 +1349,8 @@ header .social-buttons i {
 }
 
 .hero-content p{
-    font-size:20px;
-    line-height:1.8;
+    font-size:17px;
+    line-height:1.65;
     max-width:700px;
 }
 
@@ -1337,15 +1361,11 @@ header .social-buttons i {
     display:flex;
     justify-content:flex-start;
     align-items:center;
-    gap:56px;
+    gap:12px;
 }
 
 .hero .social-buttons li{
     margin:0;
-}
-
-.hero .social-buttons i{
-    font-size:35px;
 }
 
 @media (max-width:900px){
@@ -1363,6 +1383,10 @@ header .social-buttons i {
     font-size:42px;
 }
 
+.hero .social-buttons{
+    justify-content:center;
+}
+
 }
 
 /* Sobrescribir estilos del header */
@@ -1371,11 +1395,12 @@ header .social-buttons i {
     background:#fafafa !important;
     background-image:none !important;
     color:#222;
-    padding:70px 10% !important;
+    min-height:0;
+    padding:52px 10% !important;
 }
 
 .hero#head img{
-    width:360px;
+    width:320px;
     height:auto;
     border:none;
     border-radius:12px;
@@ -1396,6 +1421,17 @@ header .social-buttons i {
 
 .hero#head .social-buttons{
     text-align:left;
+}
+
+@media (max-width:900px){
+    .hero#head{
+        padding:44px 8% !important;
+    }
+
+    .hero-content p{
+        font-size:16px;
+        line-height:1.6;
+    }
 }
 
 .hero-buttons{
@@ -1711,9 +1747,29 @@ header .social-buttons i {
 }
 
 .podcast-link{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    gap:6px;
     margin-top:14px;
     margin-bottom:0;
     font-weight:600;
+}
+
+.podcast-link-divider{
+    color:#aaa;
+}
+
+.podcast-link a{
+    display:inline-flex;
+    align-items:center;
+    gap:5px;
+}
+
+.podcast-link a svg,
+.podcast-link a i{
+    width:16px;
+    height:16px;
 }
 
 .media-grid{
@@ -1868,7 +1924,7 @@ header .social-buttons i {
     border-bottom: 1px solid #e2e0e8;
 }
 .home-news .news-row {
-    padding: 7px 0;
+    padding: 3px 0;
     border-bottom: 0;
 }
 .news-date,

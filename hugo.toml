@@ -79,7 +79,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/karensanchez119"
-    icon = "fab fa-twitter-square"
+    icon = "fab fa-twitter"
     header=true
     footer = true
     sharethis = true
@@ -95,7 +95,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/karenyanethsanchez"
-    icon = "fab fa-linkedin"
+    icon = "fab fa-linkedin-in"
     header=true
     footer = true
     sharethis = true
