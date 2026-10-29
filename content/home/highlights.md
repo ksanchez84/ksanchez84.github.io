@@ -7,7 +7,7 @@ date = "2026-10-28"
 date_label = "OCT 2026"
 category = "talk"
 featured = true
-text = "I was invited as a keynote speaker at the [10th Systems Engineering Congress hosted by Universidad de Investigación y Desarrollo (UDI)](https://www.udi.edu.co/congreso/decimo-ingenieria-de-sistemas.php), where I delivered the talk *AI in Healthcare: LATAM*."
+text = "Invited speaker at the [10th Systems Engineering Congress UDI](https://www.udi.edu.co/congreso/decimo-ingenieria-de-sistemas.php), talk *AI in Healthcare: LATAM*."
 
 [[news]]
 date = "2026-08-01"

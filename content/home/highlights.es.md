@@ -7,7 +7,7 @@ date = "2026-10-28"
 date_label = "OCT 2026"
 category = "talk"
 featured = true
-text = "Fui invitada como conferencista principal al [10.º Congreso de Ingeniería de Sistemas de la Universidad de Investigación y Desarrollo (UDI)](https://www.udi.edu.co/congreso/decimo-ingenieria-de-sistemas.php), donde presenté la charla *IA in Healthcare: LATAM*."
+text = "Conferencista invitada al [10.º Congreso de Ingeniería de Sistemas UDI](https://www.udi.edu.co/congreso/decimo-ingenieria-de-sistemas.php), charla *IA in Healthcare: LATAM*."
 
 [[news]]
 date = "2026-08-01"
