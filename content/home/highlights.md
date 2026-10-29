@@ -3,18 +3,25 @@ type = "highlights"
 title = "News"
 
 [[news]]
+date = "2026-10-28"
+date_label = "OCT 2026"
+category = "talk"
+featured = true
+text = "I was invited as a keynote speaker at the [10th Systems Engineering Congress hosted by Universidad de Investigación y Desarrollo (UDI)](https://www.udi.edu.co/congreso/decimo-ingenieria-de-sistemas.php), where I delivered the talk *AI in Healthcare: LATAM*."
+
+[[news]]
 date = "2026-08-01"
 date_label = "AUG 2026"
 category = "podcast"
 featured = true
-text = "Launched [*Relatos y Ciencia*](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), my Spanish-language science storytelling podcast."
+text = "Launched [Relatos y Ciencia](https://open.spotify.com/show/033OKtKy1n24FbJPPgmzjT), my Spanish-language science storytelling podcast."
 
 [[news]]
 date = "2026-01-01"
 date_label = "JAN 2026"
 category = "service"
 featured = true
-text = "I will be a General Chair of the [Women in Computer Vision (WiCV) Workshop at CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."
+text = "General Chair of the [Women in Computer Vision (WiCV) Workshop at CVPR 2026](https://sites.google.com/view/wicv-cvpr-2026/home)."
 
 [[news]]
 date = "2026-05-01"
