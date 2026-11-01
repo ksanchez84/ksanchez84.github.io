@@ -1442,11 +1442,11 @@ header .social-buttons i {
 
 .hero-buttons a{
     display:inline-block;
-    padding:9px 18px;
-    border-radius:8px;
+    padding:7px 14px;
+    border-radius:6px;
     text-decoration:none;
     font-weight:600;
-    font-size:15px;
+    font-size:11px;
 }
 
 .btn-primary-custom{
