@@ -2,17 +2,17 @@ baseURL = "https://ksanchez84.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-title = "Karen Sanchez"
+title = "Karen Yaneth Sánchez Quiroga | AI Researcher at KAUST"
 theme = "hugo-initio"
 
 [languages]
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        title = "Karen Sanchez"
+        title = "Karen Yaneth Sánchez Quiroga | AI Researcher at KAUST"
         weight = 1
         [languages.en.params]
-            description = "Postdoctoral Researcher"
+            description = "Karen Yaneth Sánchez Quiroga is a postdoctoral researcher at KAUST working on computer vision, medical AI, video understanding, and AI for science."
             address = "KAUST, Thuwal, Saudi Arabia"
         [[languages.en.menus.main]]
             name = "Home"
@@ -22,10 +22,10 @@ theme = "hugo-initio"
     [languages.es]
         languageCode = "es"
         languageName = "Español"
-        title = "Karen Sanchez"
+        title = "Karen Yaneth Sánchez Quiroga | Investigadora en IA en KAUST"
         weight = 2
         [languages.es.params]
-            description = "Investigadora posdoctoral"
+            description = "Karen Yaneth Sánchez Quiroga es investigadora posdoctoral en KAUST y trabaja en visión por computador, IA médica, comprensión de video e IA para la ciencia."
             address = "KAUST, Thuwal, Arabia Saudita"
         [[languages.es.menus.main]]
             name = "Inicio"
@@ -34,7 +34,8 @@ theme = "hugo-initio"
 
 [params]
     name = "Karen Sanchez"
-    description = "Postdoctoral Researcher"
+    fullName = "Karen Yaneth Sánchez Quiroga"
+    description = "Karen Yaneth Sánchez Quiroga is a postdoctoral researcher at KAUST working on computer vision, medical AI, video understanding, and AI for science."
     email = "karen.sanchez@kaust.edu.sa"
     phone = ""
     address = "KAUST, Thuwal, Saudi Arabia"
@@ -45,7 +46,7 @@ theme = "hugo-initio"
     banner = "images/header_ks.png"
     favicon = "images/ks_favicon.jpeg"
     DateForm = "March 17, 2025"
-    author = "Karen Sanchez"
+    author = "Karen Yaneth Sánchez Quiroga"
 
     showSubheader = true
     showServices = true
