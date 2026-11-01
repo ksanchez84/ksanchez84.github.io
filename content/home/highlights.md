@@ -3,6 +3,13 @@ type = "highlights"
 title = "News"
 
 [[news]]
+date = "2026-10-29"
+date_label = "OCT 2026"
+category = "talk"
+featured = true
+text = "Invited speaker at the [Engineering Week 2026](https://unab.edu.co/semana-de-ingenieria/) by UNAB, Colombia."
+
+[[news]]
 date = "2026-10-28"
 date_label = "OCT 2026"
 category = "talk"

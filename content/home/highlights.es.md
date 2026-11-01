@@ -3,6 +3,13 @@ type = "highlights"
 title = "Noticias"
 
 [[news]]
+date = "2026-10-29"
+date_label = "OCT 2026"
+category = "talk"
+featured = true
+text = "Conferencista invitada a la [Semana de la Ingeniería 2026](https://unab.edu.co/semana-de-ingenieria/) por la UNAB, Colombia."
+
+[[news]]
 date = "2026-10-28"
 date_label = "OCT 2026"
 category = "talk"
