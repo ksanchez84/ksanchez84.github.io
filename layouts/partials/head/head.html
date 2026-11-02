@@ -1,8 +1,37 @@
 	<title>{{ .Title }}</title>
+	<link rel="canonical" href="{{ .Permalink }}">
 	{{ range .AllTranslations }}
 	<link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
 	{{ end }}
 	<link rel="shortcut icon" href="{{ relURL .Site.Params.favicon }}">
+
+	{{ if .IsHome }}
+	{{ $person := dict
+		"@type" "Person"
+		"@id" (printf "%s#person" .Site.BaseURL)
+		"name" .Site.Params.fullName
+		"alternateName" .Site.Params.name
+		"url" .Site.BaseURL
+		"image" (.Site.Params.avatar | absURL)
+		"jobTitle" .Site.Params.jobTitle
+		"description" .Site.Params.description
+		"affiliation" (dict
+			"@type" "Organization"
+			"name" "King Abdullah University of Science and Technology"
+			"alternateName" "KAUST"
+			"url" "https://www.kaust.edu.sa/"
+		)
+		"sameAs" .Site.Params.sameAs
+	}}
+	{{ $profile := dict
+		"@context" "https://schema.org"
+		"@type" "ProfilePage"
+		"url" .Permalink
+		"inLanguage" .Lang
+		"mainEntity" $person
+	}}
+	<script type="application/ld+json">{{ $profile | jsonify | safeJS }}</script>
+	{{ end }}
 
 	<!-- Bootstrap -->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">

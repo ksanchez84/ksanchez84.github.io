@@ -13,6 +13,7 @@ theme = "hugo-initio"
         weight = 1
         [languages.en.params]
             description = "Karen Yaneth Sánchez Quiroga is a postdoctoral researcher at KAUST working on computer vision, medical AI, video understanding, and AI for science."
+            jobTitle = "Postdoctoral Researcher"
             address = "KAUST, Thuwal, Saudi Arabia"
         [[languages.en.menus.main]]
             name = "Home"
@@ -26,6 +27,7 @@ theme = "hugo-initio"
         weight = 2
         [languages.es.params]
             description = "Karen Yaneth Sánchez Quiroga es investigadora posdoctoral en KAUST y trabaja en visión por computador, IA médica, comprensión de video e IA para la ciencia."
+            jobTitle = "Investigadora posdoctoral"
             address = "KAUST, Thuwal, Arabia Saudita"
         [[languages.es.menus.main]]
             name = "Inicio"
@@ -47,6 +49,13 @@ theme = "hugo-initio"
     favicon = "images/ks_favicon.jpeg"
     DateForm = "March 17, 2025"
     author = "Karen Yaneth Sánchez Quiroga"
+    sameAs = [
+        "https://cemse.kaust.edu.sa/profiles/karen-sanchez",
+        "https://scholar.google.com/citations?user=k7sOz3kAAAAJ",
+        "https://www.linkedin.com/in/karenyanethsanchez",
+        "https://github.com/ksanchez84",
+        "https://www.researchgate.net/profile/Karen-Sanchez-51"
+    ]
 
     showSubheader = true
     showServices = true
